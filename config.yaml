@@ -5,14 +5,14 @@ paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
+enableEmoji: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-isCJKLanguage: true
 googleAnalytics: UA-163991976-1
 
 permalinks:
-  posts: essay/:filename/
+  posts: essay/:filename
 
 minify:
   disableXML: true
@@ -60,12 +60,17 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "ĀKURAI&#39;s"
+    title: "ĀKURAI's"
     subtitle: "互联网是一座坟墓"
     imageUrl: "/images/avatar.webp"
     imageWidth: 120
     imageHeight: 120
     imageTitle: avatar
+    buttons:
+      - name: 友人
+        url: /friends/
+      - name: 关于
+        url: /about/
 
 
   cover:
@@ -100,18 +105,10 @@ menu:
       name: 归档
       url: /archives/
       weight: 20
-    - identifier: friends
-      name: 友人
-      url: /friends/
-      weight: 30
-    - identifier: about
-      name: 关于
-      url: /about/
-      weight: 40
     - identifier: search
       name: 搜索
       url: /search/
-      weight: 50
+      weight: 30
 
 
 privacy:

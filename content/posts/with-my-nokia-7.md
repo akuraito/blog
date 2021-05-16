@@ -39,7 +39,7 @@ categories: 折腾
 
 ![](/images/with-my-nokia-7/rubbish.webp)
 
-推荐使用 Google messager 🤐
+推荐使用 Google messager :zipper_mouth_face:	
 
 ### 负一屏
 

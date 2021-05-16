@@ -11,7 +11,7 @@ categories: 呢喃
 
 说起来高三也已经很久了，一直没有写 blog，总是说在尝试新的方式，其实就是不想写，之前手动转置 jimdo 成 html 的时候可能就想过要不要直接关掉 jimdo 算了，但还是不忍心，毕竟单现在的 jimdo 域名就快有两年的历史，所以，还是留个纪念吧，曾经的一断美好时光。之后可能连 耻物 也要删干净，与愉快的高二挥手告别，如此而已。
 
-也在弄 WordPress 和 hexo 虽然说 WordPress 交了学费，但还是 hexo 更适合~~报错~~玩一点，找个时间换成 next 的主题😁。WP 和 hexo 都是十分的适合折腾，只不过 WP 中文基本上已经凉了。
+也在弄 WordPress 和 hexo 虽然说 WordPress 交了学费，但还是 hexo 更适合~~报错~~玩一点，找个时间换成 next 的主题:grin:。WP 和 hexo 都是十分的适合折腾，只不过 WP 中文基本上已经凉了。
 
 ![WP-zh](/images/new-starting/wordpress-zhCN.webp)
 

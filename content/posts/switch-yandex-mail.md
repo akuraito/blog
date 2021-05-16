@@ -37,4 +37,4 @@ categories: 折腾
 
 ## IMAP
 
-运用好 IMAP 就可以直接在 Yandex mail 上面收发其他邮箱的消息，官方提供支持的有：Gmail、Mail.ru、Outlook ，直接点击授权就好了。对于其他的邮箱就需要用到 IMAP 了，邮箱服务一般都会给出 IMAP 服务器的地址，有些邮箱会提供专用密码，填上去就好了。丢一个🌰：![](/images/switch-yandex-mail/chestnut.webp)
+运用好 IMAP 就可以直接在 Yandex mail 上面收发其他邮箱的消息，官方提供支持的有：Gmail、Mail.ru、Outlook ，直接点击授权就好了。对于其他的邮箱就需要用到 IMAP 了，邮箱服务一般都会给出 IMAP 服务器的地址，有些邮箱会提供专用密码，填上去就好了。丢一个:chestnut:：![](/images/switch-yandex-mail/chestnut.webp)
