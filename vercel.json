@@ -1,0 +1,21 @@
+{
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Permissions-Policy",
+          "value": "interest-cohort=()"
+        }
+      ]
+    }
+  ],
+  "github": {
+    "silent": true
+  },
+  "build": {
+    "env": {
+      "HUGO_VERSION": "0.78.1"
+    }
+  }
+}
