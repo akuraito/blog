@@ -12,7 +12,7 @@ comments: true
 
 * [404gle.cn](https://404gle.cn/)
 * mirror：
-  * It's all dead.
+  * It&#39;s all dead.
 
 ### 历史站点
 

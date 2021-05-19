@@ -60,7 +60,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "ĀKURAI's"
+    title: "ĀKURAI&#39;s"
     subtitle: "互联网是一座坟墓"
     imageUrl: "/images/avatar.webp"
     imageWidth: 120
