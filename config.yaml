@@ -54,8 +54,6 @@ params:
 
   label:
     text: "ĀKURAI's"
-    icon: /images/favicon.svg
-    iconHeight: 35
 
   # profile-mode
   profileMode:
