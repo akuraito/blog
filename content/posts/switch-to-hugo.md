@@ -15,7 +15,7 @@ HUGO 站点与 Hexo 共存了大半个月，终于还是完全切换到 HUGO ，
 
 ```toml
 [permalinks]
-  posts = "essay/:filename/"
+  posts = "essay/:filename"
 ```
 
 HUGO 还有个 `hasCJKLanguage` 选项，如果文章中使用了很多中文引号的话可以开启，但标题 `ĀKURAI's` 里的 `'` 每次就只能写成 `&#39;` ，只好关闭。
@@ -46,3 +46,13 @@ Vercel 默认的 HUGO 版本过于老旧，需要在 vercel.json 里设置：
 ## GitHub
 
 此次更新顺便还全部把文件备份到了 GitHub ，也算是小小的一次升级吧。
+
+## Cloudflare
+
+由于最近 Vercel 疑似失联，所以套了一个 Cloudflare CDN。
+
+由于和 Vercel 的相性问题，需要关闭 `始终使用 HTTPS` 并 设置在  `/.well-known/*` 上关闭安全性。（这都什么鬼翻译？
+
+对于任何支持手动更改暗色模式功能的网站，请关闭 `Rocket Loader™`。
+
+直接开启 `电子邮件地址混淆技术` 将会降低网站加载速度。
