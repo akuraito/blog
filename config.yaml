@@ -24,28 +24,16 @@ params:
   description: "互联网是一座坟墓"
   keywords: [Blog, akura, akuraito]
   author: Akuraito
-  # author: ["Me", "You"] # multiple authors
   images: ["images/og.webp"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
-  disableThemeToggle: false
-
-  ShowReadingTime: false
-  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  disableSpecial1stPost: false
-  disableScrollToTop: false
   comments: true
   hidemeta: false
-  hideSummary: false
-  showtoc: false
-  tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
     favicon: "/images/favicon.svg"
     favicon16x16: "/images/favicon.svg"
     favicon32x32: "/images/favicon.svg"
@@ -55,9 +43,8 @@ params:
   label:
     text: "ĀKURAI's"
 
-  # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: true
     title: "ĀKURAI&#39;s"
     subtitle: "互联网是一座坟墓"
     imageUrl: "/images/avatar.webp"
@@ -72,12 +59,10 @@ params:
 
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: true
+    hiddenInList: true
+    hiddenInSingle: true
 
-  # for search
-  # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: true
     shouldSort: true
@@ -91,7 +76,7 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON # is necessary
+    - JSON
 
 menu:
   main:
@@ -116,17 +101,3 @@ privacy:
 
   youtube:
     privacyEnhanced: true
-
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
-# pygmentsUseClasses: true
-# markup:
-#     highlight:
-#         # anchorLineNos: true
-#         codeFences: true
-#         guessSyntax: true
-#         lineNos: true
-#         style: monokai
-
-#git add -A
-#git commit -m "first commit"
-#git push -u origin main
