@@ -12,6 +12,10 @@ showtoc: false
 
 [Ljcbaby 的 网络小屋](https://blog.ljcbaby.top/)
 
+[MSDNicrosoft&#39;s Blog](https://msdnicrosoft.cn/)
+
+[youmingsama](https://youmingsama.cn/)
+
 [北海轻歌](https://4op.top/)
 
 ---
