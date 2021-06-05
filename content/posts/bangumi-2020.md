@@ -311,7 +311,7 @@ We are watching.
 
 ![シドニアの騎士 あいつむぐほし](/images/bangumi-2020/knights-of-sidonia.webp)
 
-从 T5 的图找过去的，~~有趣的是 b 站虽然买了但是直接搜会搜不到~~ 已修复。
+从 T5 的图找过去的，有趣的是 b 站虽然买了第二季但是直接搜会搜不到。
 
 ### ソードアート・オンライン アリシゼーション  War of Underworld
 

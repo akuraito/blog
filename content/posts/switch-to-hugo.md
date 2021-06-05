@@ -7,7 +7,7 @@ categories: 折腾
 
 生命在于折腾。<!--more-->
 
-在不断的添加各种功能尤其是压缩文件这一耗时大户之后，我的 Hexo 网站生成时间已经到达了惊人的 3.76 s 。正好前几天看到了一款对胃口的HUGO主题 [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) ，rss、sitemap、搜索、暗色模式、搜索、还有一直想弄一个的 `profile-mode` ，当即上手整一个:tada:。
+在不断的添加各种功能尤其是压缩文件这一耗时大户之后，我的 Hexo 网站生成时间已经到达了惊人的 3.76 s 。正好前几天看到了一款对胃口的HUGO主题 [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) ，rss、sitemap、暗色模式、搜索、还有一直想弄一个的 `profile-mode` ，当即上手整一个:tada:。
 
 ## HUGO
 
