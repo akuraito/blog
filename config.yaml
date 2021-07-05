@@ -24,7 +24,7 @@ params:
   description: "互联网是一座坟墓"
   keywords: [Blog, akura, akuraito]
   author: Akuraito
-  images: ["images/og.webp"]
+  images: ["images/og.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   ShowPostNavLinks: true
