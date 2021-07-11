@@ -10,6 +10,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 googleAnalytics: UA-163991976-1
+relativeurls: true
 
 permalinks:
   posts: essay/:filename
