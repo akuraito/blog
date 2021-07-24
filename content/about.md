@@ -6,6 +6,18 @@ comments: true
 ---
 
 <!--more-->
+## ĀKURA, ĀKURAI&#39;s to 404gle
+
+全称是 ĀKURAITO ，来源是日语中 アークライト 的发音，而 アークライト 则是 Arc-light 在日语中的拼写，发音时按日语发音。参见：『Steins；Gate無限遠点のアークライト』(ISBN13:9784088900322)。
+
+平时为了方便书写和交流，用的更多的是 Akura ，但还有 Akura_Raito/Akura_Ito 等情况。
+
+由于以上原因，在此不对固定性做保证。
+
+ĀKURAI&#39;s 是网站名称。
+
+用 404 替换 Google 中的 Goo 则为 404gle，是网站域名。
+
 ## 网站
 
 ### 主站地址
