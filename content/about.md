@@ -12,7 +12,7 @@ comments: true
 
 * [404gle.cn](https://404gle.cn/)
 * mirror：
-  * It&#39;s all dead.
+  * [blog-el0.pages.dev](https://blog-el0.pages.dev/)
 
 ### 历史站点
 
