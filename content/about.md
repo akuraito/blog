@@ -16,7 +16,7 @@ comments: true
 
 平时为了方便书写和交流，用的更多的是 Akura ，但还有 Ākura/Akura_Raito/Akura_Ito 等情况，不对固定性做保证。
 
-广告过敏患者在各平台都不活跃，但你可以在 电报 找到 `@akura_chat_bot`(id:8894668112) 和 关于 中所提到的频道。
+广告过敏患者在各平台都不活跃，但你可以找到 `@akura_chat_bot`(id:8894668112) 和 关于 中所提到的频道。
 
 ## 网站
 
@@ -24,6 +24,7 @@ comments: true
 
 * [404gle.cn](https://404gle.cn/)
 * mirror：
+  * [akuraito.netlify.app](https://akuraito.netlify.app/)
   * [blog-el0.pages.dev](https://blog-el0.pages.dev/)
 
 ### 历史站点
