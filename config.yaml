@@ -23,7 +23,6 @@ params:
   env: production
   title: ĀKURAI's
   description: "互联网是一座坟墓"
-  keywords: [Blog, akura, akuraito]
   author: Akuraito
   images: ["images/og.png"]
   DateFormat: "January 2, 2006"
@@ -58,26 +57,10 @@ params:
       - name: 关于
         url: /about/
 
-
   cover:
     hidden: true
     hiddenInList: true
     hiddenInSingle: true
-
-  fuseOpts:
-    isCaseSensitive: true
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
-
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
 
 menu:
   main:
@@ -91,7 +74,7 @@ menu:
       weight: 20
     - identifier: search
       name: 搜索
-      url: /search/
+      url: https://www.google.com/search?q=site%3A404gle.cn
       weight: 30
 
 
