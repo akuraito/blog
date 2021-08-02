@@ -77,7 +77,6 @@ menu:
       url: https://www.google.com/search?q=site%3A404gle.cn
       weight: 30
 
-
 privacy:
   googleAnalytics:
     anonymizeIP: true
