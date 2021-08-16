@@ -18,6 +18,12 @@ comments: true
 
 广告过敏患者在各平台都不活跃，但你可以找到 `@akura_chat_bot`(id:8894668112) 和其 关于 中所提到的频道。
 
+## avatar
+
+[构图及动作参考](https://weibo.com/1774894770/HeduTw0ZB)
+
+[绘图](https://weibo.com/u/3224547823)
+
 ## 网站
 
 ### 主站地址
