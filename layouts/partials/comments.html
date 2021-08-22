@@ -1,12 +1,15 @@
 <script src="https://cdn.jsdelivr.net/npm/@waline/client"></script>
 <div id="waline"></div>
 <script>
-  new Waline({
+  const locale = {
+    placeholder: '登录以评论',
+  };
+  Waline({
     el: '#waline',
     serverURL: 'https://comment.404gle.cn',
     copyright: false,
     login: 'force',
-    placeholder: '登录以评论',
     dark: '.dark',
+    locale,
   });
 </script>
