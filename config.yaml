@@ -31,6 +31,7 @@ params:
   ShowCodeCopyButtons: true
   comments: true
   hidemeta: false
+  disableScrollToTop: true
 
   assets:
     favicon: "/images/favicon.svg"
