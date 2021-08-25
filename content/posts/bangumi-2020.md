@@ -5,7 +5,7 @@ updated: 2020-12-09 22:00:00
 categories: 呢喃
 ---
 
-今年依旧看了好多好多剧，主要看一个眼缘和续集，总结的时候着实震惊。<!--more-->
+今年依旧看了好多好多剧，主要看一个眼缘和续集，总结的时候着实震惊。（部分内容含有剧透。）<!--more-->
 
 ## Bangumi
 
@@ -135,7 +135,7 @@ Léon: The  Professional
 
 ![NEXT](/images/bangumi-2020/next.webp)
 
-就算已经确认不会做第二季了依旧留个悬念在后面，这是什么操作？
+就算被砍依旧留个悬念在后面，这是什么操作？
 
 ### POKÉMON DETECTIVE  PIKACHU
 
@@ -183,7 +183,7 @@ Re：从零开始的异世界生活 [official site](http://re-zero-anime.jp/)
 
 ![Solar Opposites](/images/bangumi-2020/solar-opposites.webp)
 
-南方公园。
+南方公园：
 
 ### Spider-Man: Into the  Spider-Verse
 
