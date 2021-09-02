@@ -51,7 +51,7 @@ comments: true
 
 ## 联络
 
-邮箱：[akuraito@yandex.com](mailto:akuraito@yandex.com)
+邮箱：akuraito:at:yandex.com
 
 ## 用户分析与统计
 

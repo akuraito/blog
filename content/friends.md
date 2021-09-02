@@ -34,4 +34,4 @@ showtoc: false
 - 头像：[404gle.cn/images/avatar.webp](https://404gle.cn/images/avatar.webp) (120*120)
 - LOGO：[404gle.cn/images/favicon.svg](https://404gle.cn/images/favicon.svg) (600*600)
 
-添加完友链后请在评论区留言或发送邮件至[akuraito@yandex.com](mailto:akuraito@yandex.com?subject=友链申请)。
+添加完友链后请在评论区留言或发送邮件至 akuraito:at:yandex.com
