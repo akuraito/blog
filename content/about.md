@@ -20,11 +20,13 @@ comments: true
 
 ## avatar
 
-[构图及动作参考](https://weibo.com/1774894770/HeduTw0ZB)
-
-[绘图](https://weibo.com/u/3224547823)
+* 构图及动作参考：[小刘鸭_刘阿圆](https://weibo.com/1774894770/HeduTw0ZB)
+* 绘图：[切符](https://weibo.com/u/3224547823)
 
 ## 网站
+
+* 生成器：[HUGO](https://gohugo.io/)
+* 主题：[PaperMod]()
 
 ### 主站地址
 
@@ -67,9 +69,8 @@ comments: true
 
 ## 评论
 
-评论采用：[Waline](https://waline.js.org/)
-
-自定义头像：[Gravatar](https://gravatar.com/)
+* 评论：[Waline](https://waline.js.org/)
+* 自定义头像：[Gravatar](https://gravatar.com/)
 
 用户在本站发表评论后，网站会收集表格中所填写的信息，以及用户的 IP 地址和浏览器 UA(user agent)以帮助检测垃圾评论。评论元数据将会保留，用于评论的展示以及回复。
 
@@ -79,15 +80,15 @@ comments: true
 
 所有的引用内容均为公开的互联网资源，文件来自：
 
-- 官方网站上已公开发表的内容
-- 官方在社交媒体上公开发表的内容
-- 官方在第三方媒体上公开发表的内容
+* 官方网站上已公开发表的内容
+* 官方在社交媒体上公开发表的内容
+* 官方在第三方媒体上公开发表的内容
 
 不会被发表、引用的内容：
 
-- 个人反感的内容
-- 明确禁止再发表的内容
-- 无法经过内容审查的内容
+* 个人反感的内容
+* 明确禁止再发表的内容
+* 无法经过内容审查的内容
 
 本网站的所有原创内容（包括但不限于文字，图形图像等）均经过 Ākura 授权进行分发并基于 [署名-非商用-相同方式共享 4.0 国际许可协议 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)进行共享。在遵守《中华人民共和国著作权法》，作品标注的许可协议，及相关法律的情况下，不限制对网站内作品的再发表。
 

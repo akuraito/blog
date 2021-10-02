@@ -1,14 +1,14 @@
 baseURL: "https://404gle.cn/"
 defaultContentLanguage: zh
+theme: PaperMod
 title: ĀKURAI's
 paginate: 5
-theme: PaperMod
 
-enableRobotsTXT: true
-enableEmoji: true
 buildDrafts: false
-buildFuture: false
 buildExpired: false
+buildFuture: false
+enableEmoji: true
+enableRobotsTXT: true
 googleAnalytics: UA-163991976-1
 
 permalinks:
@@ -19,29 +19,20 @@ minify:
   minifyOutput: true
 
 params:
-  env: production
-  title: ĀKURAI's
-  description: "互联网是一座坟墓"
   author: Akuraito
+  description: "互联网是一座坟墓"
   images: ["images/og.png"]
-  DateFormat: "January 2, 2006"
-  defaultTheme: auto
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
+  title: ĀKURAI's
   comments: true
-  hidemeta: false
   disableScrollToTop: true
+  hideFooter: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
 
   assets:
     favicon: "/images/favicon.svg"
-    favicon16x16: "/images/favicon.svg"
-    favicon32x32: "/images/favicon.svg"
     apple_touch_icon: "/images/favicon.svg"
     safari_pinned_tab: "/images/favicon.svg"
-
-  label:
-    text: "ĀKURAI's"
 
   profileMode:
     enabled: true
@@ -56,11 +47,6 @@ params:
         url: /friends/
       - name: 关于
         url: /about/
-
-  cover:
-    hidden: true
-    hiddenInList: true
-    hiddenInSingle: true
 
 menu:
   main:
