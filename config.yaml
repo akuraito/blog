@@ -42,11 +42,6 @@ params:
     imageWidth: 120
     imageHeight: 120
     imageTitle: avatar
-    buttons:
-      - name: 友人
-        url: /friends/
-      - name: 关于
-        url: /about/
 
 menu:
   main:
@@ -54,13 +49,13 @@ menu:
       name: 文章
       url: /posts/
       weight: 10
-    - identifier: archives
-      name: 归档
-      url: /archives/
+    - identifier: about
+      name: 关于
+      url: /about/
       weight: 20
-    - identifier: search
-      name: 搜索
-      url: https://www.google.com/search?q=site%3A404gle.cn
+    - identifier: friends
+      name: 友人
+      url: /friends/
       weight: 30
 
 privacy:
