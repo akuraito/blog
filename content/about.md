@@ -26,7 +26,7 @@ comments: true
 ## 网站
 
 * 生成器：[HUGO](https://gohugo.io/)
-* 主题：[PaperMod]()
+* 主题：[PaperMod](https://adityatelange.github.io/hugo-PaperMod)
 
 ### 主站地址
 
