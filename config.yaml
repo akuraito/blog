@@ -45,7 +45,7 @@ params:
 
   profileMode:
     enabled: true
-    title: "ĀKURAI&#39;s"
+    title: "ĀKURAI's"
     subtitle: "互联网是一座坟墓"
     imageUrl: "/images/avatar.webp"
     imageWidth: 120

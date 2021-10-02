@@ -5,13 +5,13 @@ updated: 2019-07-03 00:22:00
 comments: true
 ---
 
-## ĀKURA, ĀKURAI&#39;s to 404gle<!--more-->
+## ĀKURA, ĀKURAI's to 404gle<!--more-->
 
 * 全称：ĀKURAITO
 * 发音：アークライト
 * 原意：Arc-light
 * 参见：『Steins；Gate 無限遠点のアークライト』(ISBN-13:9784088900322)。
-* 博客：ĀKURAI&#39;s
+* 博客：ĀKURAI's
 * 域名：404gle
 
 平时为了方便书写和交流，用的更多的是 Akura ，但还有 Ākura/Akura_Raito/Akura_Ito 等情况，不对固定性做保证。

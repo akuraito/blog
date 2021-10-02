@@ -11,7 +11,7 @@ Liz and the Blue Bird is an animation film produced by Kyoto Animation, which is
 
 A simple story between Nozomi and Mizore.
 
-They&#39;ve always stumbled over each other like in a traditional boy meet girl story, breakup and fix it, over and over again. But one day you find that you have just lost her, the only thing you wanna do is tie her to you tightly. But like you can't keep the Blue Bird in a cage, there is no way to keep someone in your jail.
+They've always stumbled over each other like in a traditional boy meet girl story, breakup and fix it, over and over again. But one day you find that you have just lost her, the only thing you wanna do is tie her to you tightly. But like you can't keep the Blue Bird in a cage, there is no way to keep someone in your jail.
 
 The Blue Bird can give Liz a friend but things are much more difficult for Nozomi and Mizore. All the little things in life keep happening, all the people in her eyes are you. All the escape and misunderstanding forms their connection. All the year and closeness keep them in connection. And the two lines get away, and my palette get away.
 
