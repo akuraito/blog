@@ -1,5 +1,4 @@
 baseURL: "https://404gle.cn/"
-defaultContentLanguage: zh
 theme: PaperMod
 title: ĀKURAI's
 paginate: 5
@@ -36,7 +35,7 @@ params:
 
   profileMode:
     enabled: true
-    title: "ĀKURAI’s"
+    title: "ĀKURAI's"
     subtitle: "互联网是一座坟墓"
     imageUrl: "/images/avatar.webp"
     imageWidth: 120
