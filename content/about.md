@@ -27,6 +27,8 @@ comments: true
 
 * 生成器：[HUGO](https://gohugo.io/)
 * 主题：[PaperMod](https://adityatelange.github.io/hugo-PaperMod)
+* 持续集成：[Vercel](https://vercel.com/)
+* 内容分发网络：[Cloudflare](https://cloudflare.com/)
 
 ### 主站地址
 

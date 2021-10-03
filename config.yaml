@@ -42,6 +42,12 @@ params:
     imageHeight: 120
     imageTitle: avatar
 
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/akuraito"
+    - name: "rss"
+      url: "/index.xml"
+
 menu:
   main:
     - identifier: posts
