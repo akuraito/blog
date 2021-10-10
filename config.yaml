@@ -11,7 +11,7 @@ enableRobotsTXT: true
 googleAnalytics: UA-163991976-1
 
 permalinks:
-  posts: essay/:filename
+  essay: essay/:filename
 
 minify:
   disableXML: true
@@ -50,9 +50,9 @@ params:
 
 menu:
   main:
-    - identifier: posts
+    - identifier: essay
       name: 文章
-      url: /posts/
+      url: /essay/
       weight: 10
     - identifier: about
       name: 关于
