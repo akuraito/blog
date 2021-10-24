@@ -34,8 +34,9 @@ comments: true
 
 * [404gle.cn](https://404gle.cn/)
 * mirror：
-  * [akuraito.netlify.app](https://akuraito.netlify.app/)
-  * [blog-el0.pages.dev](https://blog-el0.pages.dev/)
+  * akuraito.netlify.app
+  * blog-el0.pages.dev
+  * \* 此免费一级域名在部分系统中被认定为诈骗网址，请勿尝试点击或搜索。
 
 ### 历史站点
 
