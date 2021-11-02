@@ -11,7 +11,7 @@ enableRobotsTXT: true
 googleAnalytics: UA-163991976-1
 
 permalinks:
-  posts: essay/:filename
+  posts: posts/:filename
 
 minify:
   disableXML: true
