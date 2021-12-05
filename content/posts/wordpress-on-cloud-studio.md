@@ -1,7 +1,7 @@
 ---
 title: 使用Cloud studio制作一个WordPress网站
 date: 2018-12-31 08:55:00
-categories: 造作
+categories: ["artificial"]
 ---
 
 腾讯和 coding 一起搞了一个东西叫做[Cloud Studio](https://studio.dev.tencent.com),可以用来搭建动态网站，并且准备好了各种环境，简单上手，如果只是搭建一个 WordPress 站点，确实能够完成传说中的 5 分钟快速完成。<!--more-->

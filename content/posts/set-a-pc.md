@@ -3,7 +3,7 @@ title: 我如何设置一台 PC
 date: 2021-10-07 17:00:00
 updated: 2021-10-07 17:00:00
 draft: true
-categories: 折腾
+categories: ["toss"]
 ---
 
 > 在这个大家一起升 Windows 11 的日子，我选择了进 β 通道！不愧是我.webp :triangular_flag_on_post:<!--more-->
@@ -38,7 +38,7 @@ categories: 折腾
 
 收藏夹，集锦和最重要的密码，全没了。在这万念俱灰的时刻，只有 MS Authenticator 向我伸出了它的双手；只有在这个瞬间，我才明白了它存在的真正意义。~~还好有你！微软！~~
 
-## 所以这是一篇给自己的安装指南与备份
+## 所以这是一篇给自己的安装指南
 
 开机第一件事，打开设置/系统/存储，把新文件位置改成 D 盘（为下次 boom 做准备），登上 OneDrive 同步文件，摸出 geek uninstaller 把 Xbox 之流统统删掉，打开 MS store 更新软件，正好也试试 Office Tool Plus，E5 订阅用户请选择企业应用版（Microsoft 365 Apps for enterprise）。
 

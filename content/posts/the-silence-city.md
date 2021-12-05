@@ -3,7 +3,7 @@ title: 寂静之城
 date: 2005-05-01 08:00:00
 updated: 2005-05-01 08:00:00
 author: 马伯庸
-categories: 转载
+categories: ["forward"]
 ---
 
 > 马伯庸《寂静之城》未删节版本全文

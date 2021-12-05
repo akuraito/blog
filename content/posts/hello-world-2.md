@@ -2,7 +2,7 @@
 title: Termux and Hexo使用指北？
 date: 2019-02-05 17:27:00
 updated: 2019-04-05 17:27:00
-categories: 折腾
+categories: ["toss"]
 ---
 
 ## 须知

@@ -2,7 +2,7 @@
 title: Bangumi 2020
 date: 2020-12-09 22:00:00
 updated: 2020-12-09 22:00:00
-categories: 呢喃
+categories: ["whisper"]
 ---
 
 今年依旧看了好多好多剧，主要看一个眼缘和续集，总结的时候着实震惊。（部分内容含有剧透。）<!--more-->

@@ -2,7 +2,7 @@
 title: 在手机上搭建hexo博客
 date: 2018-11-11 07:00:00
 updated: 2018-12-16 15:00:00
-categories: 折腾
+categories: ["toss"]
 ---
 
 ## 前言

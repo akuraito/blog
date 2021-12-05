@@ -2,8 +2,6 @@
 title: 友人
 date: 2020-08-01 00:00:00
 updated: 2020-08-01 00:00:00
-comments: true
-showtoc: false
 ---
 <!--more-->
 ---

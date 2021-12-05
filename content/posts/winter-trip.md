@@ -2,7 +2,7 @@
 title: 冬游
 date: 2018-11-19 09:51:00
 updated: 2018-11-19 09:51:00
-categories: 呢喃
+categories: ["whisper"]
 ---
 
 ## 人生中的第二个冬游:joy:
