@@ -2,11 +2,12 @@
 title: Bangumi 2021
 date: 2021-12-09 10:00:00
 updated: 2021-12-09 10:00:00
-draft: true
 categories: ["whisper"]
 ---
 
-疫情之下的这一年就这么溜过去了，总感觉该说些啥，但想想也没啥想说的，尽管学业匆忙，依旧是忙里偷闲看了不少电视电影，所以按照惯例列出来，表示今年还活着。<!--more-->动画倒是因为大环境的影响少看了不少，希望过年这段时间能补一下吧，漫威整体拉跨，拍了几部电视剧，可惜和电影一样只能流媒体上映，总体来说的话，大家一起烂。另外今年应该不会写 2021-bye，好多当时蛮大的事到现在也没啥印象了，不如自己怀念。本文不构成推荐。
+疫情之下的这一年就这么溜过去了，总感觉该说些啥，但想想也没啥想说的，尽管学业匆忙，依旧是忙里偷闲看了不少电视电影，所以按照惯例列出来，表示今年还活着。<!--more-->动画倒是因为大环境的影响少看了不少，希望过年这段时间能补一下吧；漫威整体拉跨，拍了几部电视剧，可惜和电影一样只能流媒体上映；能不被砍就是胜利，总体来说的话，大家一起烂。另外今年应该没有 2021-bye，不如自己怀念。
+
+本文不构成推荐。
 
 ## Bangumi
 
@@ -16,7 +17,7 @@ categories: ["whisper"]
 
 ![８６―エイティシックス―](/images/bangumi-2021/86.webp)
 
-第二季观感好很多，情绪塑造很棒，作画也不错
+第二季观感好很多，情绪塑造很棒，作画也不错。
 
 ### Army of the Dead
 
@@ -30,7 +31,7 @@ categories: ["whisper"]
 
 ![Army of Thieves](/images/bangumi-2021/army-of-thieves.webp)
 
-能连拉两部跨还是少见。
+能连拉两部跨还是少见，亮点是花了钱的特效。
 
 ### Black Widow
 
@@ -46,11 +47,15 @@ categories: ["whisper"]
 
 ![Blade](/images/bangumi-2021/blade.webp)
 
+内脏打码就，怪。
+
 ### Calls
 
 骇人来电 [official site](https://tv.apple.com/us/show/calls/umc.cmc.7hp8sparfsxo0l4f712f3mf2r)
 
 ![Calls](/images/bangumi-2021/calls.webp)
+
+很有勇气的创新？如果闲得慌的话可以记一下名字，一切科学归玄学。
 
 ### Clarice
 
@@ -58,11 +63,15 @@ categories: ["whisper"]
 
 ![Clarice](/images/bangumi-2021/clarice.webp)
 
+编剧：背景我就随便一编。事件的主次关系无法理解。
+
 ### Cruella
 
 黑白魔女库伊拉 [official site](https://movies.disney.com/cruella)
 
 ![Cruella](/images/bangumi-2021/cruella.webp)
+
+人物番外，服装造型好看！
 
 ### Cube
 
@@ -118,11 +127,15 @@ FLCL
 
 ![Godzilla vs. Kong](/images/bangumi-2021/godzilla-vs-kong.webp)
 
+机械哥斯拉，打架就完事了。
+
 ### Good Will Hunting
 
 心灵捕手 [official site](https://www.miramax.com/movie/good-will-hunting/)
 
 ![Good Will Hunting](/images/bangumi-2021/good-will-hunting.webp)
+
+天才的烦恼。
 
 ### INCEPTION
 
@@ -154,11 +167,15 @@ FLCL
 
 ![Justice League](/images/bangumi-2021/justice-league.webp)
 
+特意补了尾灯版。
+
 ### Kill Command
 
 杀戮指令 
 
 ![Kill Command](/images/bangumi-2021/kill-command.webp)
+
+三流低成本科幻片。
 
 ### Last Night In Soho
 
@@ -179,6 +196,8 @@ Soho区惊魂夜 [official site](https://www.focusfeatures.com/last-night-in-soh
 爱，死亡机器人 [official site](https://www.netflix.com/title/80174608)
 
 ![Love, Death & Robots](/images/bangumi-2021/love-death-and-robots.webp)
+
+失去了第一部的惊艳
 
 ### Malignant
 
@@ -260,11 +279,15 @@ Soho区惊魂夜 [official site](https://www.focusfeatures.com/last-night-in-soh
 
 ![Prodigal Son](/images/bangumi-2021/prodigal-son.webp)
 
+终究还是夭折了，世界观打开到一半就迎来了戏剧性的结尾，总不能续订之后再接着编？
+
 ### PUI PUI モルカー
 
 天竺鼠车车 [official site](https://molcar-anime.com/)
 
 ![PUI PUI モルカー](/images/bangumi-2021/molcar.webp)
+
+我，咋，别，。
 
 ### Raised by Wolves
 
@@ -280,7 +303,7 @@ Soho区惊魂夜 [official site](https://www.focusfeatures.com/last-night-in-soh
 
 ![Red Notice](/images/bangumi-2021/red-notice.webp)
 
-盗窃智斗片第一要义：空降警察必然不是好人。我的评价是：反转不如 R&M，基本上只有立场的转变，那我想看的是这个吗？
+盗窃智斗片第一要义：空降警察必然不是好人。反转不如 R&M，基本上只有立场的转变？
 
 ### Redline
 
@@ -296,7 +319,7 @@ Soho区惊魂夜 [official site](https://www.focusfeatures.com/last-night-in-soh
 
 ![Reminiscence](/images/bangumi-2021/reminiscence.webp)
 
-阿祖，不要再说话了😢
+阿祖，不要再说话了:cry:
 
 ### Resident Alien
 
@@ -358,7 +381,7 @@ X特遣队：全员集结 [official site](https://www.thesuicidesquad.net/)
 
 ![The Tomorrow War](/images/bangumi-2021/the-tomorrow-war.webp)
 
-超级大烂片，就算作为爆米花来看也是不及格的，唯一能看的只有👾的特效（然而大家都知道这个👾像什么，开局10分钟就出现了秘籍—嘴炮，一架民用旋翼机可以跨越半个地球飞入战时状态的敌国领空而不遇到防空炮和战斗机，观剧时请忽略枪械使用技巧（日常，还有时间悖论、人物智商、军事武力设定、爆炸特效、剧情回收等也请一并忽略。浓厚的意识形态与政治正确，警惕拜登打昆特牌。
+超级大烂片，就算作为爆米花来看也是不及格的，唯一能看的只有:space_invader:的特效（然而大家都知道这个:space_invader:像什么，开局10分钟就出现了秘籍—嘴炮，一架民用旋翼机可以跨越半个地球飞入战时状态的敌国领空而不遇到防空炮和战斗机，观剧时请忽略枪械使用技巧（日常，还有时间悖论、人物智商、军事武力设定、爆炸特效、剧情回收等也请一并忽略。浓厚的意识形态与政治正确，警惕拜登打昆特牌。
 
 ### Tom & Jerry
 
@@ -407,6 +430,8 @@ X特遣队：全员集结 [official site](https://www.thesuicidesquad.net/)
 扎克·施奈德版正义联盟 [official site](https://www.hbomax.com/zacksnydersjusticeleague)
 
 ![Zack Snyder's Justice League](/images/bangumi-2021/zack-snyder-s-justice-league.webp)
+
+依旧不喜欢现在的闪电侠。
 
 ### アクセル・ワールド
 
@@ -516,6 +541,8 @@ X特遣队：全员集结 [official site](https://www.thesuicidesquad.net/)
 
 ![罗小黑战记](/images/bangumi-2021/the-legend-of-hei.webp)
 
+周更了欸，多来点多来点。
+
 ### 名探偵コナン 緋色の弾丸
 
 名侦探柯南：绯色的子弹 [official site](https://www.conan-movie.jp/)
@@ -574,7 +601,7 @@ X特遣队：全员集结 [official site](https://www.thesuicidesquad.net/)
 
 从主观来看，肯定是横板、高清、宽度足够的图片最好，但现在嘛，凑合着看吧，望诸位谨言慎行。
 
-本文仍是频道动态的简单整理，但前半年部分电影和电视剧的评论分布在好几条消息，还是得人工半自动，我以后注意。另外导出文件之后的处理现在没啥好方法。
+本文仍是频道动态的简单整理，按格式放进文章就行，但前半年部分电影和电视剧的评论分布在好几条消息，还是得人工半自动，我以后注意。另外导出文件之后的处理现在没啥好方法。
 
 首先是根据 tag 读消息，识别到链接和评语，本来是打算通过链接去读标题和 `og:image` 的，但大家的标题都不咋标准，所以还得手动更改，最后形成带评论的 csv 文件，图片转换压缩一圈结束，csv 文件再加一点文字用于替换，就可以直接复制进编辑器了，目前看起来蛮不错。就是还不太聪明。
 
@@ -583,4 +610,6 @@ X特遣队：全员集结 [official site](https://www.thesuicidesquad.net/)
 <###space>,８６―エイティシックス―,<EnterEnter>,86 -不存在的战区,<space[official site](>,https://anime-86.com/,<)EnterEnter![>,８６―エイティシックス―,<](/images/bangumi-2021/>,86,<.webp)EnterEnter>,第二季观感好很多，情绪塑造很棒，作画也不错,<EnterEnter>
 ```
 
-替换就行，无官网的就把 `[official site]()` 替换为无，多余的回车可以把三个回车替换为两个。希望明年能给出更好的解决方案吧。提前祝大家新年快乐。
+替换就行，无官网的就把 `[official site]()` 替换为无，多余的回车可以把三个回车替换为两个，希望明年能给出更好的解决方案。
+
+提前祝大家新年快乐。
