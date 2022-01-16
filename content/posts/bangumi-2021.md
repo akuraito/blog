@@ -103,7 +103,7 @@ categories: ["whisper"]
 
 ![FLCL](/images/bangumi-2021/flcl.webp)
 
-FLCL
+FLCL！
 
 ### Foundation
 
@@ -137,11 +137,21 @@ FLCL
 
 天才的烦恼。
 
+### Hawkeye
+
+鹰眼 [official site](https://disneyplusoriginals.disney.com/show/hawkeye)
+
+![Hawkeye](/images/bangumi-2021/hawkeye.webp)
+
+工具人的一生。
+
 ### INCEPTION
 
 盗梦空间 [official site](https://www.warnerbros.com/movies/inception)
 
 ![INCEPTION](/images/bangumi-2021/inception.webp)
+
+实拍出了特效的表现力，帅！
 
 ### Innocent
 
@@ -149,17 +159,23 @@ FLCL
 
 ![Innocent](/images/bangumi-2021/innocent.webp)
 
+It's the fate. 情节、背景、动机、人物都很棒！尤其是悬疑的氛围塑造，今年的天花板！
+
 ### Inside No. 9
 
 9号秘事 [official site](https://www.bbc.co.uk/programmes/b03tvq6m)
 
 ![Inside No. 9](/images/bangumi-2021/inside-no-9.webp)
 
+奇思妙想。
+
 ### Interstellar
 
 星际穿越 
 
 ![Interstellar](/images/bangumi-2021/interstellar.webp)
+
+Morse code 拉了。
 
 ### Justice League
 
@@ -183,7 +199,7 @@ Soho区惊魂夜 [official site](https://www.focusfeatures.com/last-night-in-soh
 
 ![Last Night In Soho](/images/bangumi-2021/last-night-in-soho.webp)
 
-剧本与角色表现力不够。跳舞的长镜头居然是实拍！
+剧本与角色表现力不够。但跳舞的长镜头居然是实拍！
 
 ### Loki
 
@@ -191,13 +207,15 @@ Soho区惊魂夜 [official site](https://www.focusfeatures.com/last-night-in-soh
 
 ![Loki](/images/bangumi-2021/loki.webp)
 
+开启多元宇宙（假的）
+
 ### Love, Death & Robots
 
 爱，死亡机器人 [official site](https://www.netflix.com/title/80174608)
 
 ![Love, Death & Robots](/images/bangumi-2021/love-death-and-robots.webp)
 
-失去了第一部的惊艳
+失去了第一部的惊艳。
 
 ### Malignant
 
@@ -219,7 +237,7 @@ Soho区惊魂夜 [official site](https://www.focusfeatures.com/last-night-in-soh
 
 ![No Sudden Move](/images/bangumi-2021/no-sudden-move.webp)
 
-很古典
+很古典的黑帮片。
 
 ### No Time To Die
 
@@ -327,6 +345,8 @@ Soho区惊魂夜 [official site](https://www.focusfeatures.com/last-night-in-soh
 
 ![Resident Alien](/images/bangumi-2021/resident-alien.webp)
 
+居然还能这么圆？
+
 ### Rick and Morty
 
 瑞克和莫蒂 [official site](https://www.adultswim.com/videos/rick-and-morty/)
@@ -357,17 +377,29 @@ Soho区惊魂夜 [official site](https://www.focusfeatures.com/last-night-in-soh
 
 ![The Falcon and The Winter Soldier](/images/bangumi-2021/the-falcon-and-the-winter-soldier.webp)
 
+为了政治正确。
+
 ### The Father
 
 困在时间里的父亲 [official site](http://thefathermovie.com/)
 
 ![The Father](/images/bangumi-2021/the-father.webp)
 
+### The Matrix Resurrections
+
+黑客帝国 [official site](https://www.whatisthematrix.com/)
+
+![The Matrix Resurrections](/images/bangumi-2021/the-matrix-resurrections.webp)
+
+差点引爆互联网，不知道是不是类似的手法用多了，开头那一段 neta 在我这里很掉好感。抛弃了背景与 Game changer，到头来变成了一部 boy meet girl 的公路动作片，但不得不说动作戏有做到位。升华没升华到哪里去就是了。
+
 ### The Old Guard
 
 永生守卫 [official site](https://www.netflix.com/title/81038963)
 
 ![The Old Guard](/images/bangumi-2021/the-old-guard.webp)
+
+除了升华之外都还好，伏笔不出所料，不死之身的话搞宗教估计会很有搞头，一直坚持正义和最后加入 cia 就只能当作设定了。
 
 ### The Suicide Squad
 
@@ -417,6 +449,8 @@ X特遣队：全员集结 [official site](https://www.thesuicidesquad.net/)
 
 ![Why Did You Kill Me?](/images/bangumi-2021/why-did-you-kill-me.webp)
 
+很有历史感的纪录片。
+
 ### Wrath of Man
 
 人之怒 [official site](https://www.wrathofmanmovie.com.au/)
@@ -451,6 +485,16 @@ X特遣队：全员集结 [official site](https://www.thesuicidesquad.net/)
 
 ![サイダーのように言葉が湧き上がる](/images/bangumi-2021/cider-kotoba.webp)
 
+投资者与市场的裹挟，不说这个，就算是明年的新海诚也逃不出自己的魔咒。
+
+### シドニアの騎士 あいつむぐほし
+
+希德尼娅的骑士 编织爱的行星 [official site](https://sidonia-anime.jp/)
+
+![シドニアの騎士 あいつむぐほし](/images/bangumi-2021/sidonia-no-kishi-ai-tsumugu-hoshi.webp)
+
+我的星白，我的紬，呜呜呜。
+
 ### シン・エヴァンゲリオン
 
 新世纪福音战士终 [official site](https://www.evangelion.co.jp/final.html)
@@ -478,6 +522,8 @@ X特遣队：全员集结 [official site](https://www.thesuicidesquad.net/)
 奇蛋物语 [official site](https://wonder-egg-priority.com/)
 
 ![ワンダーエッグ・プライオリティ](/images/bangumi-2021/wonder-egg-priority.webp)
+
+作画爆炸强，人设也很可爱，可惜剧情收不回来了，直接一个大烂尾。
 
 ### 暗战
 
@@ -534,6 +580,14 @@ X特遣队：全员集结 [official site](https://www.thesuicidesquad.net/)
 盗钥匙的方法 [official site](http://kagidoro.com/)
 
 ![鍵泥棒のメソッド](/images/bangumi-2021/kagidoro.webp)
+
+### 劇場版 ヴァイオレット・エヴァーガーデン
+
+紫罗兰永恒花园 剧场版 [official site](http://violet-evergarden.jp/)
+
+![劇場版 ヴァイオレット・エヴァーガーデン](/images/bangumi-2021/violet-evergarden-the-movie.webp)
+
+不愧是你！京阿尼！但年龄问题是否有点？
 
 ### 罗小黑战记
 
@@ -597,9 +651,9 @@ X特遣队：全员集结 [official site](https://www.thesuicidesquad.net/)
 
 ## 碎碎念
 
-首先是传统版权规避环节，本文在发布与更新时使用的图片请参见 [bangumi-2021.csv](/forms/bangumi-2021.csv) 未整理链接的作品除加速世界和英雄本色使用了 Facebook 页面头图、悬崖之上与古董局中局使用了微博头图之外，均采用 IMDB 作品页面的 `og:image`,所有图片均经过 [TinyPNG](https://tinypng.com/) 和 webp 80% 压缩。
+首先是传统版权规避环节，本文在发布与更新时使用的图片请参见 [bangumi-2021.csv](/forms/bangumi-2021.csv) 。未具体标注的作品已皆采用 IMDB 作品页面的 `og:image`，所有图片均经过 [TinyPNG](https://tinypng.com/) 和 webp 80% 压缩。
 
-从主观来看，肯定是横板、高清、宽度足够的图片最好，但现在嘛，凑合着看吧，望诸位谨言慎行。
+从主观来看，肯定是横板、高清、宽度足够的图片最好，但现在嘛，凑合着看吧，望谨言慎行。
 
 本文仍是频道动态的简单整理，按格式放进文章就行，但前半年部分电影和电视剧的评论分布在好几条消息，还是得人工半自动，我以后注意。另外导出文件之后的处理现在没啥好方法。
 
@@ -610,6 +664,6 @@ X特遣队：全员集结 [official site](https://www.thesuicidesquad.net/)
 <###space>,８６―エイティシックス―,<EnterEnter>,86 -不存在的战区,<space[official site](>,https://anime-86.com/,<)EnterEnter![>,８６―エイティシックス―,<](/images/bangumi-2021/>,86,<.webp)EnterEnter>,第二季观感好很多，情绪塑造很棒，作画也不错,<EnterEnter>
 ```
 
-替换就行，无官网的就把 `[official site]()` 替换为无，多余的回车可以把三个回车替换为两个，希望明年能给出更好的解决方案。
+替换就行，无官网的就把 `[official site]()` 替换为无，多余的回车可以把三个回车替换为两个。希望明年能给出更好的解决方案。
 
-提前祝大家新年快乐。
+另提前祝大家新年快乐。
