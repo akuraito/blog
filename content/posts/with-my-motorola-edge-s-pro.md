@@ -5,7 +5,7 @@ updated: 2022-01-18 21:54:00
 categories: ["toss"]
 ---
 
-21 年的手机市场此起彼伏，国行 Nokia 摆烂不断，8.3 5G 或成为廉价版 Pixel 4，没想到继承遗志的重任兜兜转转交到了 Motorola Lenovo 手中。<!--more-->
+21 年的手机市场此起彼伏，国行 Nokia 摆烂不断，8.3 5G 或成为廉价版 Pixel 5，没想到继承遗志的重任兜兜转转交到了 Motorola Lenovo 手中。<!--more-->
 
 ## 缘起
 
