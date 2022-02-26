@@ -399,7 +399,7 @@ Soho区惊魂夜 [official site](https://www.focusfeatures.com/last-night-in-soh
 
 ![The Old Guard](/images/bangumi-2021/the-old-guard.webp)
 
-除了升华之外都还好，伏笔不出所料，不死之身的话搞宗教估计会很有搞头，一直坚持正义和最后加入 cia 就只能当作设定了。
+除了升华之外都还好，伏笔不出所料，不死之身的话搞宗教估计会很有搞头，一直坚持正义和最后加入 CIA 就只能当作设定了。
 
 ### The Suicide Squad
 
