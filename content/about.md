@@ -51,7 +51,7 @@ updated: 2019-07-03 00:22:00
 
 ### 演示站点
 
-* [ucebve.coding.io](https://ucebve.coding.io/) (2018.12.23~2020.01.30)
+* ucebve.coding.io (2018.12.23~2020.01.30)
 
 ## 联络
 
