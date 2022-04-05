@@ -2,7 +2,7 @@
 title: Liz To Aoi Tori
 date: 2020-11-01 00:00:00
 updated: 2020-11-01 00:00:00
-categories: ["whisper"]
+categories: ["bangumi"]
 ---
 
 Liz and the Blue Bird - The two lines come close and then get away.<!--more-->
