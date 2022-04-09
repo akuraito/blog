@@ -45,6 +45,8 @@ params:
   socialIcons:
     - name: "github"
       url: "https://github.com/akuraito"
+    - name: "discord"
+      url: "https://discord.gg/jVGAXYem6P"
     - name: "rss"
       url: "/index.xml"
 
