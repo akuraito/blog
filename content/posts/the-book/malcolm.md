@@ -60,4 +60,4 @@ ShowPostNavLinks: false
 
 ---
 
-[**第一节**](../passin)
+[**第一节**](../passin/)
