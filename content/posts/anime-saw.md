@@ -1,7 +1,7 @@
 ---
 title: 番剧、动画，细数青春
-date: 2019-07-09 22:50:00
-updated: 2019-07-12 20:44:00
+date: 2019-07-09T22:50:00+08:00
+updated: 2019-07-12T20:44:00+08:00
 categories: ["bangumi"]
 tags: ["bangumi"]
 ---

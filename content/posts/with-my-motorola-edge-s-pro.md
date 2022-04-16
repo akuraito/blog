@@ -1,7 +1,7 @@
 ---
 title: 我与我的设备-Motorola Edge S Pro
-date: 2022-01-18 21:54:00
-updated: 2022-01-18 21:54:00
+date: 2022-01-18T21:54:00+08:00
+updated: 2022-01-18T21:54:00+08:00
 categories: ["toss"]
 ---
 

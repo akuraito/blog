@@ -1,7 +1,7 @@
 ---
 title: Bangumi 2021
-date: 2021-12-09 10:00:00
-updated: 2021-12-09 10:00:00
+date: 2021-12-09T10:00:00+08:00
+updated: 2021-12-09T10:00:00+08:00
 categories: ["bangumi"]
 tags: ["bangumi"]
 ---

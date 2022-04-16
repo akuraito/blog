@@ -1,7 +1,7 @@
 ---
 title: 我如何设置一台 PC
-date: 2021-10-07 17:00:00
-updated: 2021-10-07 17:00:00
+date: 2021-10-07T17:00:00+08:00
+updated: 2021-10-07T17:00:00+08:00
 draft: true
 categories: ["toss"]
 ---

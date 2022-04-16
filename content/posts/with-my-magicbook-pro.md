@@ -1,7 +1,7 @@
 ---
 title: 我与我的设备-MagicBook Pro
-date: 2020-01-11 19:07:00
-updated: 2020-01-11 19:07:00
+date: 2020-01-11T19:07:00+08:00
+updated: 2020-01-11T19:07:00+08:00
 categories: ["toss"]
 ---
 

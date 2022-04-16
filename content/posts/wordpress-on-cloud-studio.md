@@ -1,6 +1,7 @@
 ---
 title: 使用Cloud studio制作一个WordPress网站
-date: 2018-12-31 08:55:00
+date: 2018-12-31T08:55:00+08:00
+updated: 2018-12-31T08:55:00+08:00
 categories: ["artificial"]
 ---
 

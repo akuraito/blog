@@ -1,7 +1,7 @@
 ---
 title: Liz To Aoi Tori
-date: 2020-11-01 00:00:00
-updated: 2020-11-01 00:00:00
+date: 2020-11-01T00:00:00+08:00
+updated: 2020-11-01T00:00:00+08:00
 categories: ["bangumi"]
 ---
 

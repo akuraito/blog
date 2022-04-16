@@ -1,7 +1,7 @@
 ---
 title: Bangumi 2020
-date: 2020-12-09 22:00:00
-updated: 2020-12-09 22:00:00
+date: 2020-12-09T22:00:00+08:00
+updated: 2020-12-09T22:00:00+08:00
 categories: ["bangumi"]
 tags: ["bangumi"]
 ---
