@@ -1,13 +1,12 @@
-<script src="https://cdn.jsdelivr.net/npm/@waline/client"></script>
 <div id="waline"></div>
 <script>
-  Waline({
+  Waline.init({
     el: '#waline',
     serverURL: 'https://comment.404gle.cn',
     copyright: false,
     login: 'force',
     dark: '.dark',
-    uploadImage: false,
+    imageUploader: false,
     locale: {
       placeholder: '登录以评论（支持 GitHub）',
       admin: '🎉',
@@ -15,12 +14,11 @@
   });
 </script>
 <style>
-:root {
-  --waline-theme-color: #FF4C00;
-  --waline-active-color: #FF2121;
-  --waline-badge-color: #ffffff00;
-}
-svg.verified-icon {
-  display: none;
-}
-</style>
+  :root {
+    --waline-theme-color: #FF4C00;
+    --waline-active-color: #FF2121;
+  }
+  .wl-badge,.wl-meta,.wl-power {
+    display: none !important;
+  }
+  </style>
