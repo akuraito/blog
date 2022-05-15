@@ -37,7 +37,11 @@ updated: 2019-07-03T00:22:00+08:00
   * blog-el0.pages.dev
   * \* 此免费一级域名在部分系统中被认定为诈骗网址，请勿尝试点击或搜索。
 
-### 历史站点
+### 来点折腾
+
+* [drive.akuraito.cn](https://drive.akuraito.cn)
+
+### 墓地
 
 * akura-blog-mirror.imfast.io
 * akura.netlify.app
@@ -48,10 +52,7 @@ updated: 2019-07-03T00:22:00+08:00
 * nexguard.github.io
 * [nexguard.jimdo.com](https://nexguard.jimdo.com/)
 * nexguard.xyz
-
-### 演示站点
-
-* ucebve.coding.io (2018.12.23~2020.01.30)
+* ucebve.coding.io
 
 ## 联络
 
