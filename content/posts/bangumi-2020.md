@@ -4,6 +4,7 @@ date: 2020-12-09T22:00:00+08:00
 updated: 2020-12-09T22:00:00+08:00
 categories: ["bangumi"]
 tags: ["bangumi"]
+images: ["images/og/bangumi-2020.png"]
 ---
 
 今年依旧看了好多好多剧，主要看一个眼缘和续集，总结的时候着实震惊。（部分内容含有剧透。）<!--more-->

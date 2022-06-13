@@ -1,8 +1,9 @@
 ---
-title: 在手机上搭建hexo博客
+title: 在手机上搭建 hexo 博客
 date: 2018-11-11T07:00:00+08:00
 updated: 2018-12-16T15:00:00+08:00
 categories: ["toss"]
+images: ["images/og/hello-world.png"]
 ---
 
 ## 前言

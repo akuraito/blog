@@ -2,6 +2,7 @@
 title: Hugo 初探，theme-akura
 date: 2021-07-12T18:00:00+08:00
 updated: 2021-07-12T18:00:00+08:00
+images: ["images/og/achievement-story/hugo-theme-akura.png"]
 ---
 
 Hugo 看了半天，也没有几个好看又好用的主题，毕竟 go 更多的在后端使用，即使是目前在用的 PaperMod 也有不少不如人意的地方，但好在 Hugo 简单的语法让自己设计一套主题成为可能。<!--more-->

@@ -4,6 +4,7 @@ date: 2021-10-07T17:00:00+08:00
 updated: 2021-10-07T17:00:00+08:00
 draft: true
 categories: ["toss"]
+images: ["images/og/set-a-pc.png"]
 ---
 
 > 在这个大家一起升 Windows 11 的日子，我选择了进 β 通道！不愧是我.webp :triangular_flag_on_post:<!--more-->

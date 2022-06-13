@@ -3,6 +3,7 @@ title: 匆匆三年
 date: 2019-04-14T17:27:00+08:00
 updated: 2019-04-14T17:30:00+08:00
 categories: ["whisper"]
+images: ["images/og/senior-bye.png"]
 ---
 
 墙上的倒计时簿一天天变薄，压力也一天天的变重，喘不过气来。一张张画面历数眼前，一刻刻光景渐行渐远。<!--more-->

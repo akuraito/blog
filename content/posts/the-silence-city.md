@@ -4,6 +4,7 @@ date: 2005-05-01T08:00:00+08:00
 updated: 2005-05-01T08:00:00+08:00
 author: 马伯庸
 categories: ["forward"]
+images: ["images/og/the-silence-city.png"]
 ---
 
 > 马伯庸《寂静之城》未删节版本全文

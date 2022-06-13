@@ -2,7 +2,7 @@
 title: 关于
 date: 2019-07-03T00:22:00+08:00
 updated: 2019-07-03T00:22:00+08:00
-images: ["images/avatar.webp"]
+images: ["images/og/about.png"]
 ---
 
 ## ĀKURA, ĀKURAI's to 404gle<!--more-->

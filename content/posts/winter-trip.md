@@ -3,6 +3,7 @@ title: 冬游
 date: 2018-11-19T09:51:00+08:00
 updated: 2018-11-19T09:51:00+08:00
 categories: ["whisper"]
+images: ["images/og/winter-trip.png"]
 ---
 
 ## 人生中的第二个冬游:joy:

@@ -5,6 +5,7 @@ updated: 2022-04-16T13:16:00+08:00
 tags: ["the book"]
 ShowBreadCrumbs: false
 weight: 1
+images: ["images/og/the-book/timeline.png"]
 ---
 
 此处是已公开的记录与散佚情报整理<!--more-->

@@ -1,10 +1,11 @@
 ---
-title: 使用 Termux搭建Hugo
+title: 使用 Termux 搭建 Hugo
 date: 2019-05-19T08:00:00+08:00
 updated: 2019-05-19T08:00:00+08:00
 author: Aral Balkan
 post_link: https://ar.al/2018/07/30/web-development-on-a-phone-with-hugo-and-termux/
 categories: ["translation"]
+images: ["images/og/hugo-on-termux.png"]
 ---
 
 ## 缘起　·　Why

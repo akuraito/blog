@@ -3,6 +3,7 @@ title: 旧逝
 date: 2022-02-22T17:33:00+08:00
 updated: 2022-02-26T01:35:00+08:00
 tags: ["the book"]
+images: ["images/og/passin.png"]
 ---
 
 「喂！」一只手轻轻的搭上了 Trriger 的肩膀「也不用装没注意到我吧。」<!--more-->

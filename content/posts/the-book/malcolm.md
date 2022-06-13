@@ -3,6 +3,7 @@ title: 顾程
 date: 2022-04-12T11:23:13+08:00
 updated: 2022-04-12T11:23:13+08:00
 tags: ["the book"]
+images: ["images/og/malcolm.png"]
 ---
 
 「能谈谈吗？」

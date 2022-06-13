@@ -3,6 +3,7 @@ title: 切换到 HUGO
 date: 2021-05-16T17:13:47+08:00
 updated: 2021-05-16T17:13:47+08:00
 categories: ["toss"]
+images: ["images/og/switch-to-hugo.png"]
 ---
 
 生命在于折腾。<!--more-->

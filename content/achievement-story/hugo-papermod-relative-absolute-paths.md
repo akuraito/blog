@@ -2,6 +2,7 @@
 title: Hugo PaperMod 初探，相对路径与绝对路径
 date: 2021-06-30T18:00:00+08:00
 updated: 2021-06-30T18:00:00+08:00
+images: ["images/og/achievement-story/hugo-papermod-relative-absolute-paths.png"]
 ---
 
 今年5月左右把博客从 Hexo-Next 换到了 Hugo PaperMod，告别了大而全，迎来了小而美，尽管没有了侧栏、版权提示、完善的中文支持等，但 Hugo 的生成速度和 PaperMod 的美观度足以弥补这些不足。<!--more-->

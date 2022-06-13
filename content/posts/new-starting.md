@@ -3,6 +3,7 @@ title: 也许，大概？
 date: 2018-11-18T14:30:00+08:00
 updated: 2018-11-18T14:30:00+08:00
 categories: ["whisper"]
+images: ["images/og/new-starting.png"]
 ---
 
 ![head](/images/new-starting/head.webp)<!--more-->

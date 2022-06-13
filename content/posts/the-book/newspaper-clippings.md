@@ -3,6 +3,7 @@ title: 剪报
 date: 2021-10-03T17:00:00+08:00
 updated: 2022-03-08T10:00:00+08:00
 tags: ["the book"]
+images: ["images/og/newspaper-clippings.png"]
 ---
 
 > 「...那么您觉得爱情是什么呢？相信不少读者也很好奇这个问题。」<!--more-->

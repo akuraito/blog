@@ -3,6 +3,7 @@ title: 我与我的设备-Motorola Edge S Pro
 date: 2022-01-18T21:54:00+08:00
 updated: 2022-01-18T21:54:00+08:00
 categories: ["toss"]
+images: ["images/og/with-my-motorola-edge-s-pro.png"]
 ---
 
 21 年的手机市场此起彼伏，国行 Nokia 摆烂不断，8.3 5G 或成为廉价版 Pixel 5，没想到继承遗志的重任兜兜转转交到了 Motorola Lenovo 手中。<!--more-->是个能凑合的设备。

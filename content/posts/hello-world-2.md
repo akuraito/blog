@@ -3,6 +3,7 @@ title: Termux and Hexo使用指北？
 date: 2019-02-05T17:27:00+08:00
 updated: 2019-04-05T17:27:00+08:00
 categories: ["toss"]
+images: ["images/og/hello-world-2.png"]
 ---
 
 ## 须知
