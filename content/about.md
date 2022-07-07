@@ -16,8 +16,6 @@ images: ["images/og/about.png"]
 
 平时为了方便书写和交流，用的更多的是 Akura ，但还有 Ākura/Akura_Raito/Akura_Ito 等情况，不对固定性做保证。
 
-广告过敏患者在各平台都不活跃，但你可以找到 `@akura_chat_bot`(id:8894668112) 和其 关于 中所提到的频道。
-
 ## avatar
 
 * 构图及动作参考：[小刘鸭_刘阿圆](https://weibo.com/1774894770/HeduTw0ZB)
