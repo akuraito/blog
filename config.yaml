@@ -45,8 +45,6 @@ params:
   socialIcons:
     - name: "discord"
       url: "https://discord.gg/jVGAXYem6P"
-    - name: "github"
-      url: "https://github.com/akuraito"
     - name: "telegram"
       url: "https://daily.akuraito.cn"
     - name: "rss"
