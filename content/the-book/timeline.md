@@ -58,7 +58,7 @@ images: ["images/og/the-book/timeline.png"]
 
 ...
 
-- 脱出
+- 普琳斯
   - [旧逝](/posts/passin/)
   - [顾程](/posts/malcolm/)
 
