@@ -8,7 +8,6 @@ buildExpired: false
 buildFuture: false
 enableEmoji: true
 enableRobotsTXT: true
-googleAnalytics: UA-163991976-1
 
 permalinks:
   posts: posts/:filename

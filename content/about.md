@@ -60,7 +60,7 @@ images: ["images/og/about.png"]
 
 ## 用户分析与统计
 
-本站使用了 Google LLC 所提供的 Google Analytics 服务，收集访问者的浏览时长、出入站情况等信息用以改进网站内容和服务，除相关法规要求的情况外，本站不会主观向任何其他服务公布或授权使用。此项服务遵循 [Google 隐私权政策](https://policies.google.com/privacy)和 [Google Analytics 服务条款](https://www.google.com/analytics/terms/cn.html)，同时，Google 也提供了[停用 Google Analysis 的浏览器插件](https://tools.google.com/dlpage/gaoptout)可供使用。
+已关闭 google Analytics
 
 本站额外设置了 `anonymizeIP`和 `respectDoNotTrack`以保护用户隐私。
 
