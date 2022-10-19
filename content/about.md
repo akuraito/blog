@@ -62,8 +62,6 @@ images: ["images/og/about.png"]
 
 已关闭 google Analytics
 
-本站额外设置了 `anonymizeIP`和 `respectDoNotTrack`以保护用户隐私。
-
 ## 第三方网站
 
 本网站上的文章可能包括来自其他网站的内容，这些网站可能会收集用户的隐私信息，你可以在本页找到本站所使用的所有第三方服务及其说明。
