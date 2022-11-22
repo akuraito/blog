@@ -2,7 +2,6 @@
 title: 我如何设置一台 PC
 date: 2021-10-07T17:00:00+08:00
 updated: 2021-10-07T17:00:00+08:00
-draft: true
 categories: ["toss"]
 images: ["images/og/set-a-pc.png"]
 ---
@@ -45,38 +44,54 @@ images: ["images/og/set-a-pc.png"]
 
 ### 浏览器
 
-收藏夹从头再来，密码还算活着，但是拓展全没了，还好在坚果云里找到了今年 4 月的 Tampermonkey 备份，姑且能用吧，倒是 uBlock Origin 只能重来，另外 `https://static.zhihu.com/heifetz/main.signflow.*.js` 由于更名无法使用，请更换为 `https://static.zhihu.com/heifetz/column.signflow.*.js`
+收藏夹从头再来，密码还算活着，但是拓展全没了，还好在坚果云里找到了今年 4 月的 Tampermonkey 备份，姑且能用吧，倒是 uBlock Origin 只能重来，另外 `https://static.zhihu.com/heifetz/main.signflow.*.js` 由于更名无法使用，请更换为 `https://static.zhihu.com/heifetz/column.signflow.*.js` 有效避免登录框糊脸。
 
-由于是最近改的所以还有点印象，打开 `edge://flags/#edge-automatic-https` 即可，see you https everywhere.
+为了搭配阿 b 的插件还得加点这些
+
+```
+www.bilibili.com##.adblock-tips
+message.bilibili.com/pages/nav/index_new_pc_sync
+message.bilibili.com/pages/nav/index_new_sync
+```
+
+由于是最近改的所以还有点印象，打开 `edge://flags/#edge-automatic-https` 即可，see you https everywhere. 
+
+细滚动条依旧没有默认开启所以请使用 `edge://flags/#edge-overlay-scrollbars-win-style`
 
 ### WSL
 
 作为 Windows 的第二生命，WSL 已经是整个生态链中不可或缺的功能，打开设置/应用和功能/程序和功能/启用或关闭 Windows 功能/适用于 Linux 的 Windows 子系统 即可。
 
-重启后开始造作，换镜像，更新，升级，装一堆软件包，顺便学习一下基于 WSL 的 Aria2。
+重启后开始造作，换镜像，更新，升级，装一堆软件包，至于其他，都是细枝末节。
 
-至于其他，都是细枝末节。
+```
+
+# 换源
+sudo sed -i "s@http://.*archive.ubuntu.com@https://mirrors.tuna.tsinghua.edu.cn@g" /etc/apt/sources.list
+sudo sed -i "s@http://.*security.ubuntu.com@https://mirrors.tuna.tsinghua.edu.cn@g" /etc/apt/sources.list
+```
+
+新建 `.ssh/config` 文件并在其中添加以下内容以连接 GitHub
+
+```
+Host github.com
+  Hostname ssh.github.com
+  Port 443
+```
 
 ### 软件
 
-唯一需要折腾的是 PotPlayer 但我之前是按照 [vcb-s.com/archives/7228](https://vcb-s.com/archives/7228) 来设置的，只好作罢。
+唯一需要折腾的是 PotPlayer 但我之前是按照 [vcb-s.com/archives/7228](https://vcb-s.com/archives/7228) 来设置的，~~只好作罢~~。vcb 好像又活了，但我现在换成了 mpv 所以这个也没用了。
 
 ## 软件列表
 
 ### Microsoft Store
 
-* HyPlayer，等之后换成 LyricEase
-
 * Quicklook，记得装插件
-
 * Windows Terminal
-
 * Ubuntu
-
 * Telegram Desktop
-
 * 微信 For Windows
-
 * QQ桌面版
 
 ### others
@@ -85,10 +100,12 @@ images: ["images/og/set-a-pc.png"]
 
 * geek uninstaller
 * Peazip
-* PotPlayer，默认也能用
-* Typora
+* mpv
+* Obsidian
 * VS Code
 * 纯纯写作，只用来同步手机文章
 * 华为电脑管家，装了才能控制电池充电
+
+一看才发现电脑上咋这么多编辑器。
 
 如果不是被逼着用 ie 想要一个 Chrome OS 本。
