@@ -28,6 +28,7 @@ params:
   ShowPostNavLinks: true
 
   assets:
+    disableHLJS: true
     favicon: "/images/favicon.svg"
     apple_touch_icon: "/images/favicon.svg"
     safari_pinned_tab: "/images/favicon.svg"

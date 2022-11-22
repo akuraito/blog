@@ -65,7 +65,6 @@ message.bilibili.com/pages/nav/index_new_sync
 重启后开始造作，换镜像，更新，升级，装一堆软件包，至于其他，都是细枝末节。
 
 ```
-
 # 换源
 sudo sed -i "s@http://.*archive.ubuntu.com@https://mirrors.tuna.tsinghua.edu.cn@g" /etc/apt/sources.list
 sudo sed -i "s@http://.*security.ubuntu.com@https://mirrors.tuna.tsinghua.edu.cn@g" /etc/apt/sources.list
