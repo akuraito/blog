@@ -61,7 +61,7 @@ images: ["images/og/about.png"]
 
 ## 用户分析与统计
 
-已关闭 google Analytics
+本站使用了 Microsoft Corporation 所提供的 Clarity 并集成了 Google LLC 所提供的 Google Analytics 服务，用于收集访问者的浏览时长、出入站情况等信息用以改进网站内容和服务，除相关法规要求的情况外，本站不会主观向任何其他服务公布或授权使用。此服务分别遵循 [Microsoft 隐私声明](https://privacy.microsoft.com/zh-CN/privacystatement)、[Clarity 使用条款](https://clarity.microsoft.com/terms)、[Google 隐私权政策](https://policies.google.com/privacy) 和 [Google Analytics 服务条款](https://www.google.com/analytics/terms/cn.html)，用户可在 [Digital Advertising Alliance 相关页面](https://optout.aboutads.info/) 退出 Clarity 遥测，同时，Google 也提供了 [停用 Google Analysis 的浏览器插件](https://tools.google.com/dlpage/gaoptout) 可供使用。
 
 ## 第三方网站
 
