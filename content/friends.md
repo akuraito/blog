@@ -11,10 +11,6 @@ images: ["images/og/friends.png"]
 
 [Ljcbaby 的 网络小屋](https://blog.ljcbaby.top/)
 
-[MSDNicrosoft's Blog](https://msdnicrosoft.cn/)
-
-[youmingsama](https://youmingsama.cn/)
-
 [北海轻歌](https://4op.top/)
 
 ---
@@ -34,3 +30,11 @@ images: ["images/og/friends.png"]
 - LOGO：[404gle.cn/images/favicon.svg](https://404gle.cn/images/favicon.svg) (600*600)
 
 添加完友链后请在评论区留言或发送邮件至 akuraito:at:yandex.com
+
+---
+
+失联
+
+[MSDNicrosoft's Blog](#https://msdnicrosoft.cn/)
+
+[youmingsama](#https://youmingsama.cn/)
