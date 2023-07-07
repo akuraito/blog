@@ -1,7 +1,7 @@
 ---
 title: 使用 Termux 搭建 Hugo
 date: 2019-05-19T08:00:00+08:00
-updated: 2019-05-19T08:00:00+08:00
+updated: 2023-07-6T08:00:00+08:00
 author: Aral Balkan
 post_link: https://ar.al/2018/07/30/web-development-on-a-phone-with-hugo-and-termux/
 categories: ["translation"]
@@ -14,12 +14,29 @@ hexo 虽好，但 node 依赖以及生成速度迟早会成为一个问题，虽
 
 以下是我找到的一篇成功范例，就权当作提升英语水平了。
 
-## 正文　·　Text
+## 正文　·　安装 HUGO
+
+请注意，本文翻译时间为 2019 年 5 月，其中的内容已经过时，因此现（2023 年 7 月）对其进行补充说明：Termux 的默认包管理器 pkg 中已包含 hugo，因此在使用时只需使用以下两行命令即可安装并使用 hugo。
+
+```
+pkg upgrade
+
+pkg install hugo
+```
+至此，hugo 已安装至您的 termux 中，之后的内容可查阅由 hugo 官方提供的 [快速上手指南](https://gohugo.io/getting-started/quick-start/#create-a-site) 以进一步搭建您的 hugo 网站。
+
+**以下原文仅为翻译留档，使用时请依照此线以上的内容。**
+
+---
+
+## 正文　·　Text　·　Original
 
 ![Web development in 2018: all you need is a phone.](/images/hugo-on-termux-tslt/instance.webp)
 
-> 设备：S9+，微软可折叠蓝牙键盘
+> 设备：S9+
+>
 > 编辑器：Emacs
+>
 > 浏览器：DuckDuckGo rendered ver.
 
 Hugo 是一个高效、快速的静态站点生成器和网站架构，和其他大部分生成器一样，你可以使用 Termux 在手机上方便的使用 Hugo 来搭建静态网站。
@@ -37,7 +54,8 @@ Hugo 是一个高效、快速的静态站点生成器和网站架构，和其他
 pkg install golang
 
 #更新 shell 配置
-echo "export GOPATH=$HOME/go\nexport PATH=$PATH:$GOROOT/bin:$GOPATH/bin" >> ~/.bashrc
+echo "export GOPATH=$HOME/go\nexport PATH=$PATH:$GOROOT/bin:$GOPATH/bin"
+>> ~/.bashrc
 
 #重新加载 shell 配置
 source ~/.bashrc
@@ -50,6 +68,7 @@ source ~/.bashrc
 go get github.com/magefile/mage
 
 #检索，编译以及安装 Hugo
+go get -d github.com/gohugoio/hugo
 cd ${GOPATH:-$HOME/go}/src/github.com/gohugoio/hugo
 env DEPNOLOCK=1 mage vendor
 mage install
