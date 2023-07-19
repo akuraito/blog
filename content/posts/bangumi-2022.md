@@ -259,11 +259,11 @@ Touch
 
 *ALL IS NOT OK IN OKLAHOMA*
 
-### Raised by Wolves
+### Orphan: First Kill
 
 孤儿怨：首杀 [官方网站](https://www.paramountmovies.com/movies/orphan-first-kill)
 
-![Raised by Wolves](/images/bangumi-2022/orphan-first-kill.webp)
+![Orphan: First Kill](/images/bangumi-2022/orphan-first-kill.webp)
 
 因为是自由美利坚所以一切程序问题都可以忽略
 
