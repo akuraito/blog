@@ -11,6 +11,8 @@ images: ["images/og/friends.png"]
 
 [Ljcbaby 的 网络小屋](https://blog.ljcbaby.top/)
 
+[MSDNicrosoft's Blog](https://msdnicrosoft.cn/)
+
 [北海轻歌](https://4op.top/)
 
 ---
@@ -34,7 +36,5 @@ images: ["images/og/friends.png"]
 ---
 
 失联
-
-[MSDNicrosoft's Blog](#https://msdnicrosoft.cn/)
 
 [youmingsama](#https://youmingsama.cn/)
