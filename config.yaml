@@ -8,6 +8,7 @@ buildExpired: false
 buildFuture: false
 enableEmoji: true
 enableRobotsTXT: true
+ShowFullTextinRSS: false
 
 permalinks:
   posts: posts/:filename
