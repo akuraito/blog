@@ -72,6 +72,6 @@ images: ["images/og/with-my-motorola-edge-s-pro.png"]
 
 没事不要手贱用 Play 商店 升级系统应用
 
-[^1]: https://www.nokia.com/phones/zh_int/nokia-2720
+[^1]:https://www.nokia.com/phones/zh_int/nokia-2720
 [^2]:https://developer.android.com/reference/android/view/WindowInsets?hl=zh-cn#getRoundedCorner(int)
 [^3]:https://www.motorola.com/blog/post?id=387
