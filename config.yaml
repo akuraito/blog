@@ -9,6 +9,7 @@ buildFuture: false
 enableEmoji: true
 enableRobotsTXT: true
 ShowFullTextinRSS: false
+rssLimit: 10
 
 permalinks:
   posts: posts/:filename
