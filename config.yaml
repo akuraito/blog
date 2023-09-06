@@ -34,6 +34,7 @@ params:
     favicon: "/images/favicon.svg"
     apple_touch_icon: "/images/favicon.svg"
     safari_pinned_tab: "/images/favicon.svg"
+    disableFingerprinting: true
 
   profileMode:
     enabled: true
