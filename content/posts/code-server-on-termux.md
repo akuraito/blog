@@ -10,9 +10,7 @@ images: ["images/og/code-server-on-termux.png"]
 
 <!--more-->
 
-不同于 ssh，[code-server](https://coder.com/docs/code-server/latest) 提供了一个 web 界面的 VS Code，只需一个现代浏览器便可随处使用，这样一来，连最基本的软件都不用安装，可谓是完美符合我的需求。当然也可以使用 VS Code 直接连接，但那不在本文的讨论范围。
-
-离上次折腾 Termux 过去了许久，又发现 Termux 进化了好多，好强！
+不同于 ssh，[code-server](https://coder.com/docs/code-server/latest) 提供了基于 web 界面的 VS Code，只需一个现代浏览器便可随意访问，这样一来，桌面端连最基本的软件都不用安装，可谓是完美符合我的需求。当然也可以使用 VS Code 直接连接，但那不在本文的讨论范围。
 
 ## 安装
 
@@ -51,9 +49,9 @@ ip 设为 `0.0.0.0` 便于局域网内访问，选个喜欢的端口和密码之
 
 ![登录界面](/images/code-server-on-termux/code-server-login.webp)
 
-Termux 上的 code-server [无法安装部分插件](https://coder.com/docs/code-server/latest/termux#many-extensions-including-language-packs-fail-to-install)，比如 VS Code 的简体中文语言包，解决方法也很简单（**注意**：使用此方法安装的 code-server 可能不是最新版本，下载语言包时请选择对应的版本。请依次点击左上的三条横线、Help、About 查看 `Code` 版本）：
+Termux 上的 code-server [无法安装部分插件](https://coder.com/docs/code-server/latest/termux#many-extensions-including-language-packs-fail-to-install)，其中包括了 VS Code 的简体中文语言包，解决方法也很简单（**注意**：使用此方法安装的 code-server 在安装语言包时请选择对应的版本。请依次点击左上的三条横线、Help、About 查看 `Code` 版本）：
 
-1. 打开[简体中文语言包的市场链接](https://open-vsx.org/extension/MS-CEINTL/vscode-language-pack-zh-hans)并将其下载到电脑
+1. 下载对应版本的[适用于 VS Code 的中文（简体）语言包](https://open-vsx.org/extension/MS-CEINTL/vscode-language-pack-zh-hans)至电脑
 1. 打开拓展（Extensions）界面 / Ctrl+Shift+X
 1. 点击展开右上角 `View and More Actions` 的三个圆点并选择 `Install from VSIX`
 1. 在弹出的窗口中选择最右侧的 `Show Local`
@@ -76,7 +74,7 @@ hugo server
 
 然而我们却看到输出的信息显示：`Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)`
 
-点击这个链接后，会打开形如 `http://192.168.0.42:8081/proxy/1313/` 的网址，Hugo 和 PaperMod 可不知道 `/proxy/1313/` 是什么意思，只会告诉你，css全都没啦！于是只好使用以下命令，把网址设置为手机的局域网地址并使局域网可以访问。
+点击这个链接后，会打开形如 `http://192.168.0.42:8081/proxy/1313/` 的网址，Hugo 和 PaperMod 可不知道 `/proxy/1313/` 是什么意思，只会告诉你，css 和图片找不到啦！于是只好使用以下命令，把网址设置为手机的局域网地址并使局域网内可以访问，顺带解决根路径导致的素材丢失问题。
 
 ```
 hugo server -b http://192.168.0.42/ --bind="0.0.0.0"
