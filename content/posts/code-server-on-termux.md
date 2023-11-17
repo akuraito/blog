@@ -83,3 +83,11 @@ hugo server -b http://192.168.0.42/ --bind="0.0.0.0"
 在 code-server 中，Markdown 文件的预览暂时不可用，也只好开着 `hugo server` 来预览了。
 
 ![hugo server 预览](/images/code-server-on-termux/hugo-server.webp)
+
+## 图片
+
+然而，就在一切就绪时，Open Graph 里的图片应该从哪里来成为了问题。作为一个坚定的 *PowerPoint 是世界上最方便实用的制图软件*拥护者，之前的图基本上都是 Powerpoint 做出来的，然而每次安装 office 也很麻烦，Windows 自带的画图成为了仅剩的选择。事实上，不少网页编辑器和新媒体工具的使用方法基本上就是 PowerPoint 同款操作，在素材足够的情况下绘画这一步骤可以省略，自己用形状拼图形也足以胜任大部分的工作；相对画图有着更多的可调整项，相对 Photoshop 更加轻量，可惜为了 All in Browser 的美好愿景必须被抛弃。总之，先用画图凑合着吧。（绘图时画图还未添加图层功能）
+
+![og image for code-server on termux](/images/og/code-server-on-termux.png)
+
+画图在添加图层功能之后方便了很多，但对于精细到像素的对齐依旧只能依靠鼠标所在的像素点来心算、保存的文件也无法包含图层信息。而 Web 端的类 PowerPoint 编辑器通常都面临着字体和版权的不便，思来想去，Web 端的设计工具便只有——Figma！想来是符合这一堆需求的，大不了用 css 写也行。
