@@ -48,7 +48,7 @@ images: ["images/og/bangumi-2023.png"]
 
 ### 毒舌大狀
 
-毒舌律师 [官方网站](http://www.facebook.com/aguiltyconscience.movie)
+毒舌律师 [官方网站](https://www.facebook.com/aguiltyconscience.movie)
 
 ![毒舌大狀](/images/bangumi-2023/duk-sit-dai-jong.webp)
 
@@ -84,6 +84,12 @@ images: ["images/og/bangumi-2023.png"]
 
 现在看来，这句话最适合的是水魔。
 
+### 交響詩篇 エウレカセブン
+
+交响诗篇 [官方网站](https://eurekaseven.jp/archive/eureka/)
+
+![交響詩篇 エウレカセブン](/images/bangumi-2023/eureka.webp)
+
 ### 椒麻堂会
 
 椒麻堂会 [官方网站](https://www.midnightblurfilms.com/anewoldplay)
@@ -116,7 +122,7 @@ images: ["images/og/bangumi-2023.png"]
 
 ### 君と100回目の恋
 
-与君相恋100次 [官方网站](http://kimi100.com/)
+与君相恋100次 [官方网站](https://kimi100.com/)
 
 ![君と100回目の恋](/images/bangumi-2023/kimi-100.webp)
 
@@ -148,7 +154,7 @@ images: ["images/og/bangumi-2023.png"]
 
 ### 名探偵コナン 黒鉄の魚影（サブマリン）
 
-名侦探柯南：黑铁的鱼影 [官方网站](https://web.archive.org/web/20230419174509/https://www.conan-movie.jp/)
+名侦探柯南：黑铁的鱼影 [网站时光机中的官方网站](https://web.archive.org/web/20230419174509/https://www.conan-movie.jp/)
 
 ![名探偵コナン 黒鉄の魚影（サブマリン）](/images/bangumi-2023/m26.webp)
 
@@ -260,7 +266,7 @@ images: ["images/og/bangumi-2023.png"]
 
 ### AMELIE RENNT
 
-生命的奇迹 [官方网站](http://amelierennt-derfilm.de/)
+生命的奇迹 [官方网站](https://amelierennt-derfilm.de/)
 
 ![AMELIE RENNT](/images/bangumi-2023/amelie-rennt.webp)
 
@@ -290,7 +296,7 @@ images: ["images/og/bangumi-2023.png"]
 
 ### Atonement
 
-赎罪 [官方网站](http://movies.universal-pictures-international-germany.de/abbitte/)
+赎罪 [官方网站](https://movies.universal-pictures-international-germany.de/abbitte/)
 
 ![Atonement](/images/bangumi-2023/atonement.webp)
 
@@ -306,7 +312,7 @@ BanG Dream! It's MyGO!!!!! [官方网站](https://anime.bang-dream.com/mygo/)
 
 ### Before Midnight
 
-爱在午夜降临前 [官方网站](http://www.sonyclassics.com/beforemidnight/)
+爱在午夜降临前 [官方网站](https://www.sonyclassics.com/beforemidnight/)
 
 ![Before Midnight](/images/bangumi-2023/before-midnight.webp)
 
@@ -382,7 +388,7 @@ BanG Dream! It's MyGO!!!!! [官方网站](https://anime.bang-dream.com/mygo/)
 
 ### Final Destination
 
-死神来了 [官方网站](http://www.thefinaldestinationmovie.com/)
+死神来了 [官方网站](https://www.thefinaldestinationmovie.com/)
 
 ![Final Destination](/images/bangumi-2023/final-destination.webp)
 
@@ -406,7 +412,7 @@ V世代
 
 ### John Wick
 
-疾速追杀 [官方网站](http://johnwick.jp/index.html)
+疾速追杀 [官方网站](https://johnwick.jp/index.html)
 
 ![John Wick](/images/bangumi-2023/john-wick.webp)
 
@@ -414,7 +420,7 @@ V世代
 
 ### Lady Bird
 
-伯德小姐 [官方网站](http://www.facebook.com/ladybirdmovie/)
+伯德小姐 [官方网站](https://www.facebook.com/ladybirdmovie/)
 
 ![Lady Bird](/images/bangumi-2023/lady-bird.webp)
 
@@ -460,7 +466,7 @@ V世代
 
 ### NieR:Automata Ver1.1a
 
-尼尔：自动人形 Ver1.1a [官方网站](http://nierautomata-anime.com/)
+尼尔：自动人形 Ver1.1a [官方网站](https://nierautomata-anime.com/)
 
 ![NieR:Automata Ver1.1a](/images/bangumi-2023/nier-automata-ver-1.1a.webp)
 
@@ -490,7 +496,7 @@ V世代
 
 ### Perfetti Sconosciuti
 
-完美陌生人 [官方网站](http://www.medusa.it/film/perfetti-sconosciuti/)
+完美陌生人 [官方网站](https://www.medusa.it/film/perfetti-sconosciuti/)
 
 ![Perfetti Sconosciuti](/images/bangumi-2023/perfetti-sconosciuti.webp)
 
@@ -527,6 +533,12 @@ V世代
 ![Pulp Fiction](/images/bangumi-2023/pulp-fiction.webp)
 
 洗洗眼睛
+
+### Rick and Morty
+
+瑞克和莫蒂 [官方网站](https://www.hulu.com/series/rick-and-morty-d76d6361-3fbf-4842-8dd7-e05520557280)
+
+![Rick and Morty](/images/bangumi-2023/rick-and-morty.webp)
 
 ### SAW X
 
@@ -590,7 +602,7 @@ V世代
 
 ### The Flash
 
-闪电侠 [官方网站](http://www.theflashmovie.com/)
+闪电侠 [官方网站](https://www.theflashmovie.com/)
 
 ![The Flash](/images/bangumi-2023/the-flash-movie.webp)
 
@@ -598,7 +610,7 @@ V世代
 
 ### The Grand Budapest Hotel
 
-布达佩斯大饭店 [官方网站](http://www.grandbudapesthotel.com/)
+布达佩斯大饭店 [官方网站](https://www.grandbudapesthotel.com/)
 
 ![The Grand Budapest Hotel](/images/bangumi-2023/grand-budapest-hotel.webp)
 
@@ -614,7 +626,7 @@ V世代
 
 ### The Nun
 
-修女 [官方网站](http://www.kinopoisk.ru/film/991225/)
+修女 [官方网站](https://www.kinopoisk.ru/film/991225/)
 
 ![The Nun](/images/bangumi-2023/the-nun.webp)
 
@@ -622,7 +634,7 @@ V世代
 
 ### The Nun Ⅱ
 
-修女2 [官方网站](http://www.thenun-movie.com/)
+修女2 [官方网站](https://www.thenun-movie.com/)
 
 ![The Nun Ⅱ](/images/bangumi-2023/the-nun-2.webp)
 
@@ -682,7 +694,7 @@ V世代
 
 ### アウトレイジ
 
-极恶非道 [官方网站](http://outrage-movie.jp/)
+极恶非道 [官方网站](https://outrage-movie.jp/)
 
 ![アウトレイジ](/images/bangumi-2023/outrage.webp)
 
@@ -712,7 +724,7 @@ V世代
 
 ### カイト リベレイター
 
-少女杀手 [官方网站](https://web.archive.org/web/20080503023532/http://www.kite-liberator.com/)
+少女杀手 [网站时光机中的官方网站](https://web.archive.org/web/20080503023532/https://www.kite-liberator.com/)
 
 ![カイト リベレイター](/images/bangumi-2023/kaito-ribereita.webp)
 
@@ -742,7 +754,7 @@ V世代
 
 ### スカイ・クロラ
 
-空中杀手 [官方网站](https://web.archive.org/web/20080901224515/http://sky.crawlers.jp/index.html)
+空中杀手 [网站时光机中的官方网站](https://web.archive.org/web/20080901224515/https://sky.crawlers.jp/index.html)
 
 ![スカイ・クロラ](/images/bangumi-2023/sky-crawlers.webp)
 
@@ -750,7 +762,7 @@ V世代
 
 ### ストレンヂア 無皇刃譚
 
-异邦人 无皇刃谭 [官方网站](https://web.archive.org/web/20080720223847/http://www.stranja.jp/)
+异邦人 无皇刃谭 [网站时光机中的官方网站](https://web.archive.org/web/20080720223847/https://www.stranja.jp/)
 
 ![ストレンヂア 無皇刃譚](/images/bangumi-2023/stranja.webp)
 
@@ -788,7 +800,7 @@ V世代
 
 ### ラストマンー全盲の捜査官ー
 
-LAST MAN-全盲搜查官- [官方网站](http://www.tbs.co.jp/lastman_2023_tbs/)
+LAST MAN-全盲搜查官- [官方网站](https://www.tbs.co.jp/lastman_2023_tbs/)
 
 ![ラストマンー全盲の捜査官ー](/images/bangumi-2023/lastman.webp)
 
@@ -796,11 +808,19 @@ LAST MAN-全盲搜查官- [官方网站](http://www.tbs.co.jp/lastman_2023_tbs/)
 
 ### リーガル・ハイ
 
-胜者即是正义 [官方网站](https://web.archive.org/web/20120418162003/http://www.fujitv.co.jp/legal-high/index.html)
+胜者即是正义 [网站时光机中的官方网站](https://web.archive.org/web/20120418162003/https://www.fujitv.co.jp/legal-high/index.html)
 
 ![リーガル・ハイ](/images/bangumi-2023/legal-high.webp)
 
 之前只看过混剪，是真的很欠打
+
+### るろうに剣心 －明治剣客浪漫譚－
+
+浪客剑心 明治剑客浪漫谭 [官方网站](https://rurouni-kenshin.com/)
+
+![るろうに剣心 －明治剣客浪漫譚－](/images/bangumi-2023/rurouni-kenshin.webp)
+
+不要断在一半
 
 ### わが青春のアルカディア
 
@@ -814,7 +834,7 @@ LAST MAN-全盲搜查官- [官方网站](http://www.tbs.co.jp/lastman_2023_tbs/)
 
 :tada:[VIVANT](#vivant):champagne:
 
-相较于[秘密入侵](#secret-invasion)的先发优势和 *CODE 愿望的代价*[^3] 的剥夺上映权力终生，VIVANT 以其浩大的声势在开播前就释放了一个信号：此奖与咱无缘。事实也确实如此，秘密入侵作为漫威电视剧改编的又一力作，众多明星加盟，更是戴上了 Secret Invasion 这顶王冠；CODE 愿望的代价虽然名声不显，但听人吹出花来，想必也是一部小成本的小众科幻烧脑佳作，没人认为其会有这样的下场。
+相较于[秘密入侵](#secret-invasion)的先发优势和 [CODE 愿望的代价](https://www.ytv.co.jp/code/)的剥夺上映权力终生，VIVANT 以其浩大的声势在开播前就释放了一个信号：此奖与咱无缘。事实也确实如此，秘密入侵作为漫威电视剧改编的又一力作，众多明星加盟，更是戴上了 Secret Invasion 这顶王冠；CODE 愿望的代价虽然名声不显，但听人吹出花来，想必也是一部小成本的小众科幻烧脑佳作，没人认为其会有这样的下场。
 
 在秘密入侵的根基开始动摇的时候，一位哲人这样说过：
 
@@ -848,10 +868,6 @@ LAST MAN-全盲搜查官- [官方网站](http://www.tbs.co.jp/lastman_2023_tbs/)
 
 ## 版权信息
 
-本文所使用的图片分别来自：各作品官网、各作品脸书、互联网档案馆[^1]中的各作品官网、互联网电影数据库[^2]中的各作品页面所提供的 `og:image`和各作品微博头图。
+本文所使用的图片分别来自：各作品官网、各作品脸书、[互联网档案馆](https://archive.org)中的各作品官网、[互联网电影数据库](https://www.imdb.com)中的各作品页面所提供的 `og:image`和各作品微博头图。
 
 今年的图片整理基本上延续了去年的方法，只是谷歌表格对于部分网站标题的抓取会一直卡死，所以使用的函数从`=IMPORTXML($C3,"/html/head/title")`变更为了`=IMPORTXML($C3,"/html/head/meta[@property='og:title']/@content")`，图片链接的函数依旧是`=IMPORTXML($C3,"/html/head/meta[@property='og:image']/@content")`，尽管如此，部分网站的链接在抓取时还是陷入了无限 loading 的怪圈，只得最后手动修正。除此之外，感谢互联网电影数据库与豆瓣对各作品官网链接和中文译名的整理。本文中出现的所有作品及其文字、图像、标识等版权均为原作者所有，仅以评论的目的进行引用，所有图像均使用 webp 以 75% 的质量进行压缩。
-
-[^1]:https://archive.org
-[^2]:https://www.imdb.com
-[^3]:https://www.ytv.co.jp/code/
