@@ -554,6 +554,14 @@ V世代
 
 本来以为已经够烂了
 
+### Slow Horses
+
+流人 [官方网站](https://tv.apple.com/us/show/slow-horses/umc.cmc.2szz3fdt71tl1ulnbp8utgq5o)
+
+![Slow Horses](/images/bangumi-2023/slow-horses.webp)
+
+居然真公布出去了！我一直以为这种片的调性肯定会拿来各种利益交换的。
+
 ### Solar Opposites
 
 外星也难民 [官方网站](https://www.hulu.com/series/solar-opposites-f089664b-1a87-433b-86a5-24e7da5a246a)
@@ -797,6 +805,14 @@ V世代
 ![ブラッシュアップライフ](/images/bangumi-2023/brushup-life.webp)
 
 日剧奇奇怪怪的反套路，没有烂，还是不要深究比较好
+
+### マイホームヒーロー
+
+我家的英雄 [官方网站](https://www.mbs.jp/mhh_drama/)
+
+![マイホームヒーロー](/images/bangumi-2023/my-home-hero.webp)
+
+还好没看动画
 
 ### ラストマンー全盲の捜査官ー
 
