@@ -37,7 +37,7 @@ images: ["images/og/bangumi-2023.png"]
 
 ### 毒舌大狀
 
-毒舌律师 [官方网站](https://www.facebook.com/aguiltyconscience.movie)
+毒舌律师 [官方脸书](https://www.facebook.com/aguiltyconscience.movie)
 
 ![毒舌大狀](/images/bangumi-2023/duk-sit-dai-jong.webp)
 
