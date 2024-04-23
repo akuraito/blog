@@ -97,7 +97,7 @@ images: ["images/og/bangumi-2020.png"]
 
 ![Guns Akimbo](/images/bangumi-2020/guns-akimbo.webp)
 
-“罗恩，这比魔杖好用多了！”
+「罗恩，这比魔杖好用多了！」
 
 ### HELLO WORLD
 
