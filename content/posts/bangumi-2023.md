@@ -409,7 +409,7 @@ V世代
 
 ### Lady Bird
 
-伯德小姐 [官方网站](https://www.facebook.com/ladybirdmovie/)
+伯德小姐 [官方脸书](https://www.facebook.com/ladybirdmovie/)
 
 ![Lady Bird](/images/bangumi-2023/lady-bird.webp)
 
