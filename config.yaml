@@ -1,7 +1,7 @@
 baseURL: "https://404gle.cn/"
 theme: PaperMod
 title: ĀKURAI's
-paginate: 5
+paginate: 10
 
 buildDrafts: false
 buildExpired: false
