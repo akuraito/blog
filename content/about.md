@@ -51,7 +51,7 @@ images: ["images/og/about.png"]
 * cjlh.jimdo.com
 * file.404gle.cn
 * nexguard.github.io
-* [nexguard.jimdo.com](https://nexguard.jimdo.com/)
+* nexguard.jimdo.com
 * nexguard.xyz
 * ucebve.coding.io
 
