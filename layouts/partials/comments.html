@@ -6,9 +6,9 @@
     el: '#waline',
     serverURL: 'https://comment.akurai.to',
     login: 'force',
+    dark: 'body[class="dark"]',
     locale: {
       placeholder: '据信息服务管理规定，请登录后进行评论，评论内容将在审核后展示。',
-      admin: '🎉',
     },
   });
 </script>
@@ -17,10 +17,9 @@
   :root {
     --waline-theme-color: #FF4C00;
     --waline-active-color: #ff2121;
-    --waline-badge-color: #00000000;
-    --waline-bg-color: #00000000;
   }
-  .verified-icon,.wl-actions,.wl-power{
+  .wl-actions,.wl-badge,.wl-edit,.verified-icon,.wl-power{
     display: none!important;
   }
+
 </style>
