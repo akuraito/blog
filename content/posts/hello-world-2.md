@@ -301,20 +301,20 @@ Front-matter 规定了每一篇文章不同于其他文章的变量,比如上图
 分别用`[]`包裹需要显示出来的文字，用`()`包裹网页地址，网页地址可以是相对地址也可以是绝对地址。
 
 ```
-[my blog](https://www.404gle.cn)
+[my blog](https://akurai.to)
 ```
 
-[my blog](https://www.404gle.cn)
+[my blog](https://akurai.to)
 
 #### 图片
 
 把链接的格式前面加一个`!`（英文感叹号）就是图片的格式。因为使用 Termux 来移动图片实在是不方便，所以请老实的使用图床，比如[SMMS](https://sm.ms)。
 
 ```
-![head](https://404gle.cn/images/avatar.webp)
+![head](https://akurai.to/images/avatar.webp)
 ```
 
-![head](https://404gle.cn/images/avatar.webp)
+![head](https://akurai.to/images/avatar.webp)
 
 #### ~~表格~~
 
@@ -436,7 +436,7 @@ vim manifest.json
   "short_name": "Ākura的笔记本",
   "description": "私のweb",
   "icons": [{
-      "src": "https://404gle.cn/images/avatar.gif",
+      "src": "https://akurai.to/images/avatar.gif",
       "sizes": "606x606",
       "type": "image/png"
     }],

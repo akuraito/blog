@@ -22,6 +22,6 @@ localStorage.clear(pref-theme);
 [^1]:https://developer.android.com/about/versions/10/highlights
 [^2]:https://www.apple.com/newsroom/2019/06/apple-previews-ios-13/
 [^3]:https://blogs.windows.com/windowsexperience/2016/08/08/windows-10-tip-personalize-your-pc-by-enabling-the-dark-theme/
-[^4]:https://akuraito.cn/essay/switch-to-hugo/
+[^4]:https://akurai.to/essay/switch-to-hugo/
 [^5]:https://blog.skk.moe/post/hello-darkmode-my-old-friend/
 

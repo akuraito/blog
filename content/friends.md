@@ -7,7 +7,7 @@ images: ["images/og/friends.png"]
 <!--more-->
 ---
 
-[ĀKURAI's](https://404gle.cn/)
+[ĀKURAI's](https://akurai.to/)
 
 [Ljcbaby 的 网络小屋](https://blog.ljcbaby.top/)
 
@@ -27,9 +27,9 @@ images: ["images/og/friends.png"]
 
 - 博客：ĀKURAI's
 - BIO：互联网是一座坟墓
-- 链接：[404gle.cn](https://404gle.cn/)
-- 头像：[404gle.cn/images/avatar.webp](https://404gle.cn/images/avatar.webp) (120*120)
-- LOGO：[404gle.cn/images/favicon.svg](https://404gle.cn/images/favicon.svg) (600*600)
+- 链接：[akurai.to](https://akurai.to/)
+- 头像：[akurai.to/images/avatar.webp](https://akurai.to/images/avatar.webp) (120*120)
+- LOGO：[akurai.to/images/favicon.svg](https://4akurai.to/images/favicon.svg) (600*600)
 
 添加完友链后请在评论区留言或发送邮件至 akuraito:at:yandex.com
 

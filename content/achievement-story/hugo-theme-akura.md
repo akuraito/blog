@@ -27,7 +27,7 @@ Hugo 基于 go 语言，模板则使用了 `html/template` 和 `text/template` �
 
 ## PaperMod 重构
 
-大体上保持 PaperMod 的外观效果，主页更改为类 [og.png](https://404gle.cn/images/og.png) 或者 [GitHub 仓库社交预览图](https://opengraph.githubassets.com/200a992730df60f592c31f8de7f19379ed60bda3016706ac2b4273fe879631a1/akuraito/blog) 的样式，深色模式使用且只使用 `prefers-color-scheme` ：
+大体上保持 PaperMod 的外观效果，主页更改为类 [og.png](https://akurai.to/images/og.png) 或者 [GitHub 仓库社交预览图](https://opengraph.githubassets.com/200a992730df60f592c31f8de7f19379ed60bda3016706ac2b4273fe879631a1/akuraito/blog) 的样式，深色模式使用且只使用 `prefers-color-scheme` ：
 
 ```
 <link rel="stylesheet" href="main.css">

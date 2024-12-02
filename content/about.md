@@ -5,14 +5,13 @@ updated: 2019-07-03T00:22:00+08:00
 images: ["images/og/about.png"]
 ---
 
-## ĀKURA, ĀKURAI's to 404gle<!--more-->
+## ĀKURA to ĀKURAI's<!--more-->
 
 * 全称：ĀKURAITO
 * 发音：アークライト
 * 原意：Arc-light
 * 参见：『Steins；Gate 無限遠点のアークライト』(ISBN-13:9784088900322)。
 * 博客：ĀKURAI's
-* 域名：404gle
 
 平时为了方便书写和交流，用的更多的是 Akura ，但还有 Ākura/Akura_Raito/Akura_Ito 等情况，不对固定性做保证。
 
@@ -30,7 +29,7 @@ images: ["images/og/about.png"]
 
 ### 主站地址
 
-* [404gle.cn](https://404gle.cn/)
+* [akurai.to](https://akurai.to/)
 * mirror：
   * akuraito.netlify.app
   * blog-el0.pages.dev
@@ -38,7 +37,7 @@ images: ["images/og/about.png"]
 
 ### 来点折腾
 
-* [drive.akuraito.cn](https://drive.akuraito.cn)
+* [drive.akurai.to](https://drive.akurai.to)
 * [todo.akuraito.cn](https://todo.akuraito.cn)
 * [heluo.acvra.eu.org](https://heluo.acvra.eu.org)
 

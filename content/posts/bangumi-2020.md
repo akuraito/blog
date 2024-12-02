@@ -519,7 +519,7 @@ UGO：又戳我又戳我没完了是吧？
 
 未看完/追完/放弃的影视剧作品没有列出，例外：[Rugal](#rugal)。
 
-图片采用 `og:image` 或 `twitter:image` 等公开图片并压缩为 80% 的 webp 文件。 ~~之后会再改，比如 Netflix 的图是真的诡异。~~ 更新完成。有网站的从网站扒，没网站的从豆瓣扒，部分还用了微博。具体参见 [bangumi-2020.csv](https://drive.akuraito.cn/zh-CN/forms/bangumi/bangumi-2020.csv)。
+图片采用 `og:image` 或 `twitter:image` 等公开图片并压缩为 80% 的 webp 文件。 ~~之后会再改，比如 Netflix 的图是真的诡异。~~ 更新完成。有网站的从网站扒，没网站的从豆瓣扒，部分还用了微博。具体参见 [bangumi-2020.csv](https://drive.akurai.to/zh-CN/forms/bangumi/bangumi-2020.csv)。
 
 ## 增
 

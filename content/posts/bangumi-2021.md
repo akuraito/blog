@@ -653,7 +653,7 @@ X特遣队：全员集结 [official site](https://www.thesuicidesquad.net/)
 
 ## 碎碎念
 
-首先是传统版权规避环节，本文在发布与更新时使用的图片请参见 [bangumi-2021.csv](https://drive.akuraito.cn/zh-CN/forms/bangumi/bangumi-2021.csv) 。未具体标注的作品已皆采用 IMDB 作品页面的 `og:image`，所有图片均经过 [TinyPNG](https://tinypng.com/) 和 webp 80% 压缩。
+首先是传统版权规避环节，本文在发布与更新时使用的图片请参见 [bangumi-2021.csv](https://drive.akurai.to/zh-CN/forms/bangumi/bangumi-2021.csv) 。未具体标注的作品已皆采用 IMDB 作品页面的 `og:image`，所有图片均经过 [TinyPNG](https://tinypng.com/) 和 webp 80% 压缩。
 
 从主观来看，肯定是横板、高清、宽度足够的图片最好，但现在嘛，凑合着看吧，望谨言慎行。
 

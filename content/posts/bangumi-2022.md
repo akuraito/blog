@@ -765,6 +765,6 @@ You will not spend your best years taking care of my remaining few. 搬上摄影
 
 和每年一样，还是只有频道动态的整理，虽然效率没有提升，但是今年在总结阶段有了新的突破：那天看见了 Google 文档的种草之后现学了 XPath，可以输入链接直接得到网站的 title 和 og:image，和之前的脚本一样的是，网站不规范就识别不了。而对于低技术力用户来说，写一串长长的判断看着就头疼，Google 文档的效率看起来也不太行的样子，所以就这样就好。图片的话现在已经是全放养的态度了，比如 Facebook 会给个头像、帕拉蒙会给个帕拉蒙、DC 会给个 DC 标，emmmm，也行吧，反正又不是我的，大家一起看 logo 也挺好。有些网址是 Netflix 的链接，但 Netflix 有时并不能算是官网，这里也无所谓了，都无所谓！
 
-本文中的译名、原名、图片使用的文件名参考了豆瓣和 IMDB，在此表示感谢；没找到官网或者官网没给图的作品选取了 IMDB 页的 og:image，再次表示感谢。对于所有的图片使用依旧可以参考 [Bnagumi-2022](https://drive.akuraito.cn/zh-CN/forms/bangumi/Bangumi-2022.csv) 文件中的链接，链接均由 Google 文档抓取，其中 site title 的函数为`=IMPORTXML($C3,"/html/head/title")`；ogimage 的函数为`=IMPORTXML($C3,"/html/head/meta[@property='og:image']/@content")`。
+本文中的译名、原名、图片使用的文件名参考了豆瓣和 IMDB，在此表示感谢；没找到官网或者官网没给图的作品选取了 IMDB 页的 og:image，再次表示感谢。对于所有的图片使用依旧可以参考 [Bnagumi-2022](https://drive.akurai.to/zh-CN/forms/bangumi/Bangumi-2022.csv) 文件中的链接，链接均由 Google 文档抓取，其中 site title 的函数为`=IMPORTXML($C3,"/html/head/title")`；ogimage 的函数为`=IMPORTXML($C3,"/html/head/meta[@property='og:image']/@content")`。
 
 那，大概，就这样？写完之后愈发电波。

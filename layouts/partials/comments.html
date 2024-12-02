@@ -1,25 +1,24 @@
-<script src="https://npm.elemecdn.com/@waline/client@v2/dist/waline.js"></script>
 <div id="waline"></div>
-<script>
-  Waline.init({
+
+<script type="module">
+  import { init } from 'https://cdnjs.cloudflare.com/ajax/libs/waline/3.4.1/waline.js';
+  init({
     el: '#waline',
-    serverURL: 'https://comment.404gle.cn',
-    copyright: false,
+    serverURL: 'https://comment.akurai.to',
     login: 'force',
-    dark: '.dark',
-    imageUploader: false,
-    emoji: [],
     locale: {
       placeholder: '据信息服务管理规定，请登录后进行评论，评论内容将在审核后展示。',
       admin: '🎉',
     },
   });
 </script>
+
 <style>
   :root {
     --waline-theme-color: #FF4C00;
     --waline-active-color: #ff2121;
     --waline-badge-color: #00000000;
+    --waline-bg-color: #00000000;
   }
   .verified-icon,.wl-actions,.wl-power{
     display: none!important;
