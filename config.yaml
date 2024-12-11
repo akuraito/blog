@@ -1,7 +1,7 @@
 baseURL: "https://akurai.to/"
 theme: PaperMod
 title: ĀKURAI's
-paginate: 10
+pagerSize: 10
 
 buildDrafts: false
 buildExpired: false
