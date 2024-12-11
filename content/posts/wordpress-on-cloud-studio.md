@@ -8,11 +8,7 @@ images: ["images/og/wordpress-on-cloud-studio.png"]
 
 腾讯和 coding 一起搞了一个东西叫做[Cloud Studio](https://studio.dev.tencent.com),可以用来搭建动态网站，并且准备好了各种环境，简单上手，如果只是搭建一个 WordPress 站点，确实能够完成传说中的 5 分钟快速完成。<!--more-->
 
-<hr>
-
 > 由于 Cloud Studio 已于 2020 年 1 月 30 日停止服务并转换为 Cloud Studio 团队版，本教程将不再适用。
-
-<hr>
 
 ## 开始
 

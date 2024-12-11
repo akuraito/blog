@@ -32,7 +32,7 @@ images: ["images/og/set-a-pc.png"]
 
 然而就在几小时的造作之后，它炸了…
 
-包括任务栏，设置在内的大部分可显示界面失效，由于刚升级就把 Windows.old 给删了所以无法无痛回归，可恶。只能靠着快捷键 <kbd><kbd>Windows</kbd> + <kbd>2</kbd></kbd> 打开浏览器下载 21H1 。
+包括任务栏，设置在内的大部分可显示界面失效，由于刚升级就把 Windows.old 给删了所以无法无痛回归，可恶。只能靠着快捷键 `Windows + 2` 打开浏览器下载 21H1 。
 
 一顿操作之后，正准备打开 office.com 安装三件套，突然一惊，我的 Edge, ALL CLEAR‽
 
