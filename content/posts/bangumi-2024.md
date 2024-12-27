@@ -5,8 +5,11 @@ updated: 2024-12-02T23:51:00+08:00
 categories: ["bangumi"]
 tags: ["bangumi"]
 images: ["images/og/bangumi-2024.png"]
-draft: true
 ---
+
+虽然早有预期，但今年看的是真的少了许多；去年好歹还补了一些评语，今年就啥也没有喽。<!--more-->
+
+**用药请遵医嘱、不构成投资建议、不构成观影推荐。NSFW警告；剧透警告。**
 
 ### 【推しの子】
 
@@ -15,6 +18,12 @@ draft: true
 ![【推しの子】](/images/bangumi-2024/oshi-no-ko.webp)
 
 在倒数第二集敲打泪腺是好文明
+
+### 【推しの子】
+
+【我推的孩子】 [官方网站](https://oshinoko-lapj.com/)
+
+![【推しの子】](/images/bangumi-2024/oshi-no-ko-lapj.webp)
 
 ### 変人のサラダボウル
 
@@ -131,6 +140,12 @@ draft: true
 ![侵入者たちの晩餐](/images/bangumi-2024/shinnyusha.webp)
 
 为了诡计编故事
+
+### 全領域異常解決室
+
+全领域异常解决室 [官方网站](https://www.fujitv.co.jp/zenketsu/)
+
+![](/images/bangumi-2024/zenketsu.webp)
 
 ### 忘却バッテリー
 
@@ -462,6 +477,12 @@ Re：从零开始的休息时间 第三季 [官方网站](https://re-zero-anime.
 
 强行脚本而放弃了观感
 
+### ダンダダン
+
+胆大党 [官方网站](https://anime-dandadan.com/)
+
+![ダンダダン](/images/bangumi-2024/dandadan.webp)
+
 ### テレビ報道記者〜ニュースをつないだ女たち〜
 
 电视报道记者〜连接新闻的女人们〜  [官方网站](https://www.ntv.co.jp/tvhoudoukisha/)
@@ -481,6 +502,12 @@ Re：从零开始的休息时间 第三季 [官方网站](https://re-zero-anime.
 潘多拉的果实～科学犯罪捜査档案～ [官方网站](https://www.ntv.co.jp/pandora/)
 
 ![パンドラの果実～科学犯罪捜査ファイル～](/images/bangumi-2024/pandora.webp)
+
+### ブラック・ジャック
+
+怪医黑杰克 [官方网站](https://www.tv-asahi.co.jp/bj/)
+
+![ブラック・ジャック](/images/bangumi-2024/bj.webp)
 
 ### ミステリと言う勿れ
 
@@ -515,3 +542,15 @@ Re：从零开始的休息时间 第三季 [官方网站](https://re-zero-anime.
 蓦然回首 [官方网站](https://lookback-anime.com/)
 
 ![ルックバック](/images/bangumi-2024/look-back.webp)
+
+## 碎碎念
+
+> 顺嘴提一下推子，如果没有第一集的话，也就是一般的水平（仅动画，没看过漫画
+
+去年这句话本来是吐槽推子的，结果用在了水魔上，今年这句话终于回到了尊敬的赤坂明老师身边。失忆投捕早早预定了年度提名，结果到最后也只有他上了提名，芙莉莲要不是排在他后两位，估计早就被当成年与年夹缝之间的牺牲品了。
+
+比较有意思的是几个无声无息的续作：[BURN THE WITCH #0.8](#burn-the-witch-08)、[饥饿站台2](#el-hoyo-2) 和[大欺诈师 razbliuto](#great-pretender-razbliuto)，除了饥饿站台2都还挺不错的，但不知道为什么一点讨论都没有。最典中典的当属[亡命驾驶](#drive)，很难想象这居然是一部2011年的作品，但除了让我感慨一下市场的参差好像也没有别的作用。
+
+于是在这个提不起兴趣的2024年，今年的年度作品自然是最能让人提起兴趣的[金的音像店](#kims-video)，虽然今年也有不少作品在送情书，但是他送的真的很特别，电影万岁。
+
+今年依旧谷歌表格依赖，对部分系列作品进行了手动排序。本文所使用的图片分别来自：各作品官网、各作品脸书、[互联网档案馆](https://archive.org)中的各作品官网、[互联网电影数据库](https://www.imdb.com)中的各作品页面所提供的 `og:image`和各作品微博头图。感谢互联网电影数据库与豆瓣对各作品官网链接和中文译名的整理。本文中出现的所有作品及其文字、图像、标识等版权均为原作者所有，仅以评论为目的进行引用，所有图像均使用 webp 以 75% 的质量进行压缩。
