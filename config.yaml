@@ -28,10 +28,13 @@ params:
   hideFooter: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
+  ShowRssButtonInSectionTermList: true
 
   assets:
     disableHLJS: true
     favicon: "/images/favicon.svg"
+    favicon16x16: "/images/favicon.svg"
+    favicon32x32: "/images/favicon.svg"
     apple_touch_icon: "/images/favicon.svg"
     safari_pinned_tab: "/images/favicon.svg"
     disableFingerprinting: true
