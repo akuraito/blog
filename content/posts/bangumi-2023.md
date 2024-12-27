@@ -53,7 +53,7 @@ images: ["images/og/bangumi-2023.png"]
 
 ### 關於我和鬼變成家人的那件事
 
-关于我和鬼变成家人的那件事 [官方网站](https://dizilerfilmler.net/marry-my-dead-body-filmi/)
+关于我和鬼变成家人的那件事
 
 ![關於我和鬼變成家人的那件事](/images/bangumi-2023/guan-yu-wo-han-gui-bian-cheng-jia-ren-de-na-jian-shi.webp)
 
