@@ -195,6 +195,12 @@ images: ["images/og/bangumi-2024.png"]
 
 大杂烩模板戏
 
+### BLEACH 千年血戦篇-相剋譚-
+
+死神 千年血战篇 -相克谭- [官方网站](https://bleach-anime.com/)
+
+![BLEACH 千年血戦篇-相剋譚-](/images/bangumi-2024/bleach-anime.webp)
+
 ### BURN THE WITCH #0.8
 
 龙与魔女 #0.8 [官方网站](https://burn-the-witch-anime.com/)
