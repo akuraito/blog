@@ -38,8 +38,6 @@ images: ["images/og/about.png"]
 ### 来点折腾
 
 * [drive.akurai.to](https://drive.akurai.to)
-* [todo.akuraito.cn](https://todo.akuraito.cn)
-* [heluo.acvra.eu.org](https://heluo.acvra.eu.org)
 
 ### 墓地
 
