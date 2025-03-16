@@ -52,7 +52,7 @@ params:
     - name: "discord"
       url: "https://discord.gg/jVGAXYem6P"
     - name: "telegram"
-      url: "https://daily.acvra.eu.org/"
+      url: "https://daily.akurai.to/"
     - name: "rss"
       url: "/index.xml"
 
