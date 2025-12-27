@@ -31,7 +31,7 @@ images: ["images/og/bangumi-2024.png"]
 
 ![変人のサラダボウル](/images/bangumi-2024/hensara.webp)
 
-乐队解散的原因是因为词曲键盘进去了（
+乐队解散的原因是词曲键盘进去了（
 
 ### 从21世纪安全撤离
 
