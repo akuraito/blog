@@ -165,7 +165,7 @@ S2只是烂，S3看着犯恶心
 
 ### 我不是药神
 
-我不是药神 [官方网站](https://www.weibo.com/u/6155884989)
+我不是药神 [官方微博](https://www.weibo.com/u/6155884989)
 
 ![我不是药神](/images/bangumi-2025/wo-bu-shi-yao-shen.webp)
 
@@ -425,11 +425,11 @@ Re：从零开始的异世界生活 [官方网站](http://re-zero-anime.jp/tv/)
 
 作为一部特效为主的片子，你既不钻缝也不开门，靠拍两段来伪一镜穿玻璃是不是有点离谱了？后面找代码和服务器攻防的搞耍程度居然还能跌破预期。唯一值得一看的是那栋楼
 
-### "Yes Prime Minister"
+### Yes Prime Minister
 
 是，首相
 
-!["Yes Prime Minister"](/images/bangumi-2025/yes-prime-minister.webp)
+![Yes Prime Minister](/images/bangumi-2025/yes-prime-minister.webp)
 
 看完可以当带英首相，没看过也可以
 
