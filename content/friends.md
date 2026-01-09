@@ -29,7 +29,7 @@ images: ["images/og/friends.png"]
 - BIO：互联网是一座坟墓
 - 链接：[akurai.to](https://akurai.to/)
 - 头像：[akurai.to/images/avatar.webp](https://akurai.to/images/avatar.webp) (120*120)
-- LOGO：[akurai.to/images/favicon.svg](https://4akurai.to/images/favicon.svg) (600*600)
+- LOGO：[akurai.to/images/favicon.svg](https://akurai.to/images/favicon.svg) (600*600)
 
 添加完友链后请在评论区留言或发送邮件至 akuraito:at:yandex.com
 
