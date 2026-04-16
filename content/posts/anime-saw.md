@@ -39,7 +39,7 @@ images: ["images/og/anime-saw.png"]
 
 看一遍哭一遍的~~致郁~~治愈番，每当熟悉的旋律想起，为什么，眼泪，会流下来，明明，已经哭过一次了。推荐玩游戏，抱走小智代。
 
-###  Love, Death & Robots
+### Love, Death & Robots
 
 -爱、死亡，机器人 [公式](https://www.netflix.com/title/80174608)
 
@@ -403,7 +403,7 @@ images: ["images/og/anime-saw.png"]
 
 每年四月就会有人刷的番，大众神作，音乐强无敌，成长、友情、爱情、死亡，日本真小。*致有马公生的一封信* 可还行
 
-###  新世紀エヴァンゲリオン
+### 新世紀エヴァンゲリオン
 
 -新世纪福音战士 [公式](https://www.evangelion.co.jp/)
 

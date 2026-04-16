@@ -29,7 +29,7 @@ Termux 对我来说就是一个 Linux 模拟器，当然也有其他的终端可
 首先是喜闻乐见的换国内源环节，当然你也可以选择不换。
 
 ```
-vi  $PREFIX/etc/apt/sources.list
+vi $PREFIX/etc/apt/sources.list
 ```
 
 按`i`进入编辑模式，把`https://termux.net`替换为`http://mirrors.tuna.tsinghua.edu.cn/termux`（国内清华源）。

@@ -59,11 +59,11 @@ images: ["images/og/bangumi-2020.png"]
 
 经典漫威商业片，官网仿古很上世纪，正好有新电影了。
 
-### EL HOYO (The  Platform)
+### EL HOYO (The Platform)
 
 饥饿站台 [official site](http://elhoyolapelicula.com/)
 
-![EL HOYO (The  Platform)](/images/bangumi-2020/elhoyolapelicula.webp)
+![EL HOYO (The Platform)](/images/bangumi-2020/elhoyolapelicula.webp)
 
 高级杨永信，单元剧？
 
@@ -123,13 +123,13 @@ images: ["images/og/bangumi-2020.png"]
 
 超能力大冒险
 
-### Léon: The  Professional
+### Léon: The Professional
 
 这个杀手不太冷
 
-![Léon: The  Professional](/images/bangumi-2020/leon-the-professional.webp)
+![Léon: The Professional](/images/bangumi-2020/leon-the-professional.webp)
 
-Léon: The  Professional
+Léon: The Professional
 
 ### NEXT
 
@@ -139,11 +139,11 @@ Léon: The  Professional
 
 就算被砍依旧留个悬念在后面，这是什么操作？
 
-### POKÉMON DETECTIVE  PIKACHU
+### POKÉMON DETECTIVE PIKACHU
 
 大侦探皮卡丘 [official site](http://www.detectivepikachumovie.net/)
 
-![POKÉMON DETECTIVE  PIKACHU](/images/bangumi-2020/pokemon-detective-pikachu.webp)
+![POKÉMON DETECTIVE PIKACHU](/images/bangumi-2020/pokemon-detective-pikachu.webp)
 
 超梦：又戳我？
 
@@ -187,11 +187,11 @@ Re：从零开始的异世界生活 [official site](http://re-zero-anime.jp/)
 
 南方公园：
 
-### Spider-Man: Into the  Spider-Verse
+### Spider-Man: Into the Spider-Verse
 
 蜘蛛侠：平行宇宙 [official site](https://www.sonypictures.com/movies/spidermanintothespiderverse)
 
-![Spider-Man: Into the  Spider-Verse](/images/bangumi-2020/spiderman-into-the-spider-verse.webp)
+![Spider-Man: Into the Spider-Verse](/images/bangumi-2020/spiderman-into-the-spider-verse.webp)
 
 惊叹于迪士尼的特效。
 
@@ -315,11 +315,11 @@ We are watching.
 
 从 T5 的图找过去的，有趣的是 b 站虽然买了第二季但是直接搜会搜不到。
 
-### ソードアート・オンライン アリシゼーション  War of Underworld
+### ソードアート・オンライン アリシゼーション War of Underworld
 
 刀剑神域 爱丽丝篇 [official site](https://sao-alicization.net/)
 
-![ソードアート・オンライン アリシゼーション  War of Underworld](/images/bangumi-2020/sao-alicization.webp)
+![ソードアート・オンライン アリシゼーション War of Underworld](/images/bangumi-2020/sao-alicization.webp)
 
 UGO：又戳我又戳我没完了是吧？
 
@@ -375,7 +375,7 @@ UGO：又戳我又戳我没完了是吧？
 
 别人家的校园。
 
-###  宝石商リチャード氏の謎鑑定
+### 宝石商リチャード氏の謎鑑定
 
 宝石商人理查德的谜鉴定 [official site](https://jeweler-richard.com/)
 

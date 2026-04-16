@@ -491,7 +491,7 @@ Re：从零开始的休息时间 第三季 [官方网站](https://re-zero-anime.
 
 ### テレビ報道記者〜ニュースをつないだ女たち〜
 
-电视报道记者〜连接新闻的女人们〜  [官方网站](https://www.ntv.co.jp/tvhoudoukisha/)
+电视报道记者〜连接新闻的女人们〜 [官方网站](https://www.ntv.co.jp/tvhoudoukisha/)
 
 ![テレビ報道記者〜ニュースをつないだ女たち〜](/images/bangumi-2024/tvhoudoukisha.webp)
 

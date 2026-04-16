@@ -10,12 +10,12 @@ images: ["images/og/about.png"]
 * 全称：ĀKURAITO
 * 发音：アークライト
 * 原意：Arc-light
-* 参见：『Steins；Gate 無限遠点のアークライト』(ISBN-13:9784088900322)。
+* 参见：『Steins；Gate 無限遠点のアークライト』(ISBN:9784088900322)。
 * 博客：ĀKURAI's
 
 平时为了方便书写和交流，用的更多的是 Akura ，但还有 Ākura/Akura_Raito/Akura_Ito 等情况，不对固定性做保证。
 
-## avatar
+## Avatar
 
 * 构图及动作参考：[小刘鸭_刘阿圆](https://weibo.com/1774894770/HeduTw0ZB)
 * 绘图：[切符](https://weibo.com/u/3224547823)
