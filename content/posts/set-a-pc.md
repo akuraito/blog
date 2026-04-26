@@ -10,21 +10,21 @@ images: ["images/og/set-a-pc.png"]
 >
 > 最大的区别自然是任务栏，只能放在下方，但我觉得迟早会有有方法把它改回去。然后文件管理器默认可以显示 WSL 里面的文件了，巨大进步，对于 WSA 的期待则更进一步。
 >
-> ![WSL-folder-in-file-manager](../../images/set-a-pc/wsl-folder-in-file-manager.webp)
+> ![WSL-folder-in-file-manager](/images/set-a-pc/wsl-folder-in-file-manager.webp)
 >
 > 是音效！我加了开机音效！打开一个四世同堂的设置后就可以关掉！此外其他音效也有更新。
 >
-> ![disable-Windows-boot-sound](../../images/set-a-pc/disable-Windows-boot-sound.webp)
+> ![disable-Windows-boot-sound](/images/set-a-pc/disable-Windows-boot-sound.webp)
 >
 > 切换桌面时壁纸会有一个从拉伸快速变换的过程，原因见图
 >
-> ![unload-wallpaper](../../images/set-a-pc/unload-wallpaper.webp)
+> ![unload-wallpaper](/images/set-a-pc/unload-wallpaper.webp)
 >
 > 输入法也变得纤细了不少。
 >
 > 小部件是真的没什么用，在开始按钮的微软待办磁贴无法使用之后，这是我对小部件唯一的期待，然而：
 >
-> ![MS-to-do-widget-broken](../../images/set-a-pc/ms-to-do-widget-broken.webp)
+> ![MS-to-do-widget-broken](/images/set-a-pc/ms-to-do-widget-broken.webp)
 >
 > 革命尚未成功，微软仍需努力。
 >

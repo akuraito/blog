@@ -14,11 +14,11 @@ images: ["images/og/clodop-without-https.png"]
 
 既然有报错那肯定就直接复制搜索一气呵成，可惜不管怎么搜都是同一个结果出现千百遍，对遇到的情况没帮助不说，来源还不可考，也不知道是谁抄谁。
 
-![搜索结果](../../images/clodop-without-https/bing-search.webp)
+![搜索结果](/images/clodop-without-https/bing-search.webp)
 
 尝试捷径失败，还是只能自己动手，兜兜转转回到了教务处的网站上来。打开控制台一看，这不是写的清清楚楚的嘛，早知道这样，何必那么麻烦。
 
-![报错](../../images/clodop-without-https/ensure-private-network-requests-are-made-from-secure-contexts.webp)
+![报错](/images/clodop-without-https/ensure-private-network-requests-are-made-from-secure-contexts.webp)
 
 谷歌已经在 [Chrome 开发者博客](https://developer.chrome.com/blog/private-network-access-update/) 写清楚啦，没 https 就不要乱动！如果我就是要乱动，那也不是不行，只需要打开浏览器里的实验功能，并把 `Block insecure private network requests` 设为关闭就好啦，也可以在地址栏输入 `chrome://flags/#block-insecure-private-network-requests` 直达此选项。（Edge 浏览器也可直接输入，并将自动跳转到 `edge://flags/#block-insecure-private-network-requests`）
 
