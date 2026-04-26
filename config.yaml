@@ -12,7 +12,7 @@ ShowFullTextinRSS: false
 rssLimit: 10
 
 permalinks:
-  posts: posts/:filename
+  posts: posts/:contentbasename
 
 minify:
   disableXML: true
