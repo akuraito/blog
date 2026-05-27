@@ -22,7 +22,11 @@ images: ["images/og/code-server-on-termux.png"]
 termux-change-repo
 ```
 
-然后升级一下有的没的，再安装自己要的工具就行。虽然一直没咋动 Termux，但基础的工具还留着，本文跳过这一部分，请根据报错或手册自行安装。
+然后升级一下有的没的，再安装自己要的工具就行。
+
+```
+pkg update -y && pkg upgrade -y
+```
 
 ### code-server
 
