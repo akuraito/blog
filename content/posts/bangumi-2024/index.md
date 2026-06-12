@@ -1,0 +1,566 @@
+---
+title: Bangumi 2024
+date: 2024-12-02T23:51:00+08:00
+updated: 2024-12-02T23:51:00+08:00
+categories: ["bangumi"]
+tags: ["bangumi"]
+images: ["posts/bangumi-2024/og.png"]
+---
+
+虽然早有预期，但今年看的是真的少了许多；去年好歹还补了一些评语，今年就啥也没有喽。<!--more-->
+
+**用药请遵医嘱、不构成投资建议、不构成观影推荐。NSFW警告；剧透警告。**
+
+### 【推しの子】
+
+【我推的孩子】 [官方网站](https://ichigoproduction.com/)
+
+![【推しの子】](oshi-no-ko.webp)
+
+在倒数第二集敲打泪腺是好文明
+
+### 【推しの子】
+
+【我推的孩子】 [官方网站](https://oshinoko-lapj.com/)
+
+![【推しの子】](oshi-no-ko-lapj.webp)
+
+### 変人のサラダボウル
+
+怪人的沙拉碗 [官方网站](https://www.tbs.co.jp/anime/hensara/)
+
+![変人のサラダボウル](hensara.webp)
+
+乐队解散的原因是词曲键盘进去了（
+
+### 从21世纪安全撤离
+
+从21世纪安全撤离 [官方微博](https://weibo.com/u/7529865539)
+
+![从21世纪安全撤离](cong-21-shi-ji-an-quan-che-li.webp)
+
+还是原来那个味？
+
+### 地面師
+
+地面师 [Netflix](https://www.netflix.com/title/81574118/)
+
+![地面師](jimenshitachi.webp)
+
+### 怪物
+
+怪物 [官方网站](https://gaga.ne.jp/kaibutsu-movie/)
+
+![怪物](kaibutsu.webp)
+
+### 盒中之海
+
+盒中之海 [哔哩哔哩](https://www.bilibili.com/bangumi/play/ss48676)
+
+![盒中之海](he-zhong-zhi-hai.webp)
+
+### 黑土无言
+
+黑土无言 [官方微博](https://www.weibo.com/u/7743359849)
+
+![黑土无言](hei-tu-wu-yan.webp)
+
+至少前面剧本不错
+
+### 機動戦士ガンダム 復讐のレクイエム
+
+机动战士高达：复仇的安魂曲 [官方网站](https://gundam-requiem.net/)
+
+![機動戦士ガンダム 復讐のレクイエム](gundam-requiem.webp)
+
+想想是吉翁干的，倒也正常
+
+### 機動戦士ガンダムSEED FREEDOM
+
+机动战士高达SEED FREEDOM [官方网站](https://www.gundam-seed.net/freedom/)
+
+![機動戦士ガンダムSEED FREEDOM](gundam-seed-freedom.webp)
+
+### 交響詩篇エウレカセブン　ハイエボリューション
+
+交响诗篇 超进化1 [官方网站](https://eurekaseven.jp/hi-evolution1/)
+
+![交響詩篇エウレカセブン　ハイエボリューション](hi-evolution1.webp)
+
+新画面咋这么短
+
+### ANEMONE／交響詩篇エウレカセブン ハイエボリューション
+
+交响诗篇 超进化2 [官方网站](https://eurekaseven.jp/hi-evolution2/)
+
+![ANEMONE／交響詩篇エウレカセブン ハイエボリューション](hi-evolution2.webp)
+
+虽然能理解
+
+### EUREKA／交響詩篇エウレカセブン ハイエボリューション
+
+交响诗篇 超进化3 [官方网站](https://eurekaseven.jp/)
+
+![EUREKA／交響詩篇エウレカセブン ハイエボリューション](hi-evolution3.webp)
+
+这个可以磕，这个不许磕
+
+### 交響詩篇エウレカセブン ポケットが虹でいっぱい
+
+交响诗篇 Eureka Seven 彩虹满载 [官方网站](https://eurekaseven.jp/archive/eureka_pocket/)
+
+![交響詩篇エウレカセブン ポケットが虹でいっぱい](eureka-po.webp)
+
+### エウレカセブンAO
+
+交响诗篇AO [官方网站](https://eurekaseven.jp/archive/eureka_ao/)
+
+![エウレカセブンAO](eureka-ao.webp)
+
+存在感无，果然很一般
+
+### 君たちはどう生きるか
+
+你想活出怎样的人生 [官方网站](https://www.ghibli.jp/works/kimitachi/)
+
+![君たちはどう生きるか](kimitachi.webp)
+
+### 名探偵コナン 100万ドルの五稜星
+
+名侦探柯南：百万美元的五棱星 [官方网站](https://www.conan-movie.jp/2024/)
+
+![名探偵コナン 100万ドルの五稜星](conan-movie-2024.webp)
+
+年度枪车球动画
+
+### 侵入者たちの晩餐
+
+入侵者们的晚餐 [官方网站](https://www.ntv.co.jp/shinnyusha/)
+
+![侵入者たちの晩餐](shinnyusha.webp)
+
+为了诡计编故事
+
+### 全領域異常解決室
+
+全领域异常解决室 [官方网站](https://www.fujitv.co.jp/zenketsu/)
+
+![](zenketsu.webp)
+
+### 忘却バッテリー
+
+失忆投捕 [官方网站](https://boukyaku-battery.com/)
+
+![忘却バッテリー](boukyaku-battery.webp)
+
+年度提名预订
+
+### 顔
+
+顔 [官方网站](https://www.tv-asahi.co.jp/kao/)
+
+![顔](kao.webp)
+
+刑侦技术的进步没能拯救编剧的脑子
+
+### 葬送のフリーレン
+
+葬送的芙莉莲 [官方网站](https://frieren-anime.jp/)
+
+![葬送のフリーレン](frieren.webp)
+
+赶快给我交往啊
+
+### 拯救嫌疑人
+
+拯救嫌疑人
+
+![Last Suspect ](zheng-jiu-xian-yi-ren.webp)
+
+除了情节推进靠没脑子之外，实至名归
+
+### Spy x Family Code: White
+
+间谍过家家 代号：白 [官方网站](https://spy-family.net/codewhite/)
+
+![Spy x Family Code: White](spy-family-code-white.webp)
+
+居然翻译了 WIT STUDIO 和 CloverWorkes 的公司名，神奇。 最喜欢的一卡是扭肩，还有片尾 cast 表一闪而过的 Trigger
+
+### Berlín
+
+柏林 [Netflix](https://www.netflix.com/title/81586657/)
+
+![Berlín](berlin.webp)
+
+大杂烩模板戏
+
+### BLEACH 千年血戦篇-相剋譚-
+
+死神 千年血战篇 -相克谭- [官方网站](https://bleach-anime.com/)
+
+![BLEACH 千年血戦篇-相剋譚-](bleach-anime.webp)
+
+### BURN THE WITCH #0.8
+
+龙与魔女 #0.8 [官方网站](https://burn-the-witch-anime.com/)
+
+![BURN THE WITCH #0.8](burn-the-witch.webp)
+
+好可爱好可爱好可爱好可爱好可爱好可爱
+
+### Civil War
+
+美国内战 [官方网站](https://a24films.com/films/civil-war)
+
+![Civil War](civil-war.webp)
+
+### Criminal Record
+
+犯罪记录
+
+![Criminal Record](criminal-record.webp)
+
+是你吗？酒厂？
+
+### Death Note/Death Note: The Last Name
+
+死亡笔记/死亡笔记：最后的名字 [官方网站](https://wwws.warnerbros.co.jp/deathnote/)
+
+![Death Note/Death Note: The Last Name](death-note.webp)
+
+### L: Change the World
+
+L改变世界 [官方网站](https://wwws.warnerbros.co.jp/L-movie/)
+
+![L: Change the World](l-movie.webp)
+
+### Deemo
+
+古树旋律 剧场版 [官方网站](https://deemomovie.jp/index.html)
+
+![Deemo](deemo.webp)
+
+### Drive
+
+亡命驾驶 [官方网站](https://le-pacte.com/france/film/drive)
+
+![Drive](drive.webp)
+
+完美符合我对一部B级片的所有刻板印象
+
+### El hoyo 2
+
+饥饿站台2 [Netflix](https://www.netflix.com/title/81284730/)
+
+![El hoyo 2](el-hoyo-2.webp)
+
+### FLCL: Grunge
+
+特别的她：垃圾摇滚 [网站时光机中的官方网站](https://web.archive.org/web/20230927115330/https://www.adultswim.com/videos/flcl)
+
+![FLCL: Grunge](flcl-g.webp)
+
+说实话，要不是它叫这名字估计没几个人会看它了
+
+### FLCL: Shoegaze
+
+特别的她：盯鞋摇滚 [官方网站](https://www.adultswim.com/videos/flcl)
+
+![FLCL: Shoegaze](flcl-s.webp)
+
+居然是 A 的续作，一副我们埋了好多东西快来看看的样子
+
+### GREAT PRETENDER razbliuto
+
+大欺诈师 razbliuto [官方网站](https://www.greatpretender.jp/)
+
+![GREAT PRETENDER razbliuto](great-pretender-razbliuto.webp)
+
+### Hundreds of Beavers
+
+这很河狸 [官方网站](https://hundredsofbeavers.com/)
+
+![Hundreds of Beavers](hundreds-of-beavers.webp)
+
+确实河狸
+
+### Kim's Video
+
+金的音像店 [官方网站](https://carnivalesquefilms.com/films/kims-video)
+
+![Kim's Video](kims-video.webp)
+
+比电影还纪录片
+
+### Lift
+
+偷破天际线 [Netflix](https://www.netflix.com/title/81446739/)
+
+![Lift](lift.webp)
+
+### Mayor of Kingstown
+
+金斯敦市长 [官方网站](https://www.paramountplus.com/shows/mayor-of-kingstown/)
+
+![Mayor of Kingstown](mayor-of-kingstown.webp)
+
+每次美剧完结都会陷入既想他续订又不想让他续订的叠加态
+
+### NieR:Automata
+
+尼尔：自动人形 [官方网站](https://nierautomata-anime.com/)
+
+![NieR:Automata](nierautomata.webp)
+
+### Only Murders in the Building
+
+大楼里只有谋杀 第四季
+
+![Only Murders in the Building](only-murders-in-the-building.webp)
+
+### Re:ゼロから始める異世界生活 3rd season
+
+Re：从零开始的休息时间 第三季 [官方网站](https://re-zero-anime.jp/tv/)
+
+![Re:ゼロから始める異世界生活 3rd season](re-zero-3-1.webp)
+
+### REVOLUTION＋1
+
+革命＋1 [官方网站](https://revolutionplus1.com/)
+
+![REVOLUTION＋1](revolution-plus-1.webp)
+
+### Shab, Dakheli, Divar
+
+高墙之外
+
+![Shab, Dakheli, Divar](shab-dakheli-divar.webp)
+
+还行的剧透手法
+
+### Slow Horses
+
+流人 [官方网站](https://apple.co/_SlowHorses)
+
+![Slow Horses](slow-horses.webp)
+
+### SMILE 2
+
+夺命微笑2 [官方网站](https://www.smile.movie/)
+
+![SMILE 2](smile-2.webp)
+
+### Solar Opposites
+
+外星也难民 [官方网站](https://www.hulu.com/series/solar-opposites-f089664b-1a87-433b-86a5-24e7da5a246a)
+
+![Solar Opposites](solar-opposites.webp)
+
+### SYNDUALITY Noir
+
+奇异贤伴 黑色天使 [官方网站](https://synduality-noir.com/)
+
+![SYNDUALITY Noir](synduality-noir.webp)
+
+没出差错的宣传片
+
+### Terminator Zero
+
+终结者：零 [Netflix](https://www.netflix.com/title/81217220/)
+
+![Terminator Zero](terminator-zero.webp)
+
+### The Boys
+
+黑袍纠察队 [官方网站](https://amazon.com/theboys)
+
+![The Boys](the-boys.webp)
+
+### The Monk and the Gun
+
+僧侣和枪
+
+![The Monk and the Gun](the-monk-and-the-gun.webp)
+
+意图明显
+
+### The Substance
+
+某种物质 [官方网站](https://amzn.to/3TBpGEO)
+
+![The Substance](the-substance.webp)
+
+### The Wild Robot
+
+荒野机器人 [官方网站](https://www.thewildrobotmovie.com/)
+
+![The Wild Robot](the-wild-robot.webp)
+
+### Transformers One
+
+变形金刚：起源
+
+![Transformers One](transformers-one.webp)
+
+### What If...?
+
+假如…？ [官方网站](https://www.disneyplus.com/series/what-if/7672ZVj1ZxU9)
+
+![What If...?](what-if.webp)
+
+不会拍可以不要拍
+
+### アリスとテレスのまぼろし工場
+
+爱丽丝和特蕾丝的梦幻工厂 [官方网站](https://maboroshi.movie/)
+
+![アリスとテレスのまぼろし工場](maboroshi.webp)
+
+### ガールズ＆パンツァー
+
+少女与战车 [官方网站](https://girls-und-panzer.jp/)
+
+![ガールズ＆パンツァー](girls-und-panzer.webp)
+
+### ガールズバンドクライ
+
+少女乐队的呐喊 [官方网站](https://girls-band-cry.com)
+
+![ガールズバンドクライ](girls-band-cry.webp)
+
+### ガラスの城
+
+玻璃之城 [官方网站](https://www.tv-asahi.co.jp/garasunoshiro/)
+
+![ガラスの城](garasunoshiro.webp)
+
+### グリム組曲
+
+格林童话变奏曲 [Netflix](https://www.netflix.com/title/81050090)
+
+![グリム組曲](grimm-kumikyoku.webp)
+
+### コードギアス 奪還のロゼ
+
+反叛的鲁路修 夺还的罗赛 [官方网站](https://geass.jp/roze/)
+
+![コードギアス 奪還のロゼ](roze.webp)
+
+换个驾驶舱会死
+
+### コンクリート・レボルティオ \~超人幻想\~
+
+混凝土革命 超人幻想 [官方网站](https://concreterevolutio.com/)
+
+![コンクリート・レボルティオ ~超人幻想~](concrete-revolutio.webp)
+
+浓度提升.webp
+
+### ザ・ファブル
+
+杀手寓言 [官方网站](https://www.vap.co.jp/the-fable-anime/)
+
+![ザ・ファブル](the-fable.webp)
+
+### シティーハンター
+
+城市猎人 [Netflix](https://www.netflix.com/title/81454087/)
+
+![シティーハンター](shiti-hanta.webp)
+
+### すべてがFになる THE PERFECT INSIDER
+
+全部成为F [官方网站](https://www.f-noitamina.com/)
+
+![すべてがFになる THE PERFECT INSIDER](f-noitamina.webp)
+
+### ダブルチート 偽りの警官
+
+双面骗子 虚假警察 [官方网站](https://www.doublecheat.com/)
+
+![ダブルチート 偽りの警官](double-cheat.webp)
+
+强行脚本而放弃了观感
+
+### ダンダダン
+
+胆大党 [官方网站](https://anime-dandadan.com/)
+
+![ダンダダン](dandadan.webp)
+
+### テレビ報道記者〜ニュースをつないだ女たち〜
+
+电视报道记者〜连接新闻的女人们〜 [官方网站](https://www.ntv.co.jp/tvhoudoukisha/)
+
+![テレビ報道記者〜ニュースをつないだ女たち〜](tvhoudoukisha.webp)
+
+### トクメイ！警視庁特別会計係
+
+特命! 警视厅特别会计员 [官方网站](https://www.ktv.jp/tokumei/)
+
+![トクメイ！警視庁特別会計係](tokumei.webp)
+
+是喜剧
+
+### パンドラの果実～科学犯罪捜査ファイル～
+
+潘多拉的果实～科学犯罪捜査档案～ [官方网站](https://www.ntv.co.jp/pandora/)
+
+![パンドラの果実～科学犯罪捜査ファイル～](pandora.webp)
+
+### ブラック・ジャック
+
+怪医黑杰克 [官方网站](https://www.tv-asahi.co.jp/bj/)
+
+![ブラック・ジャック](bj.webp)
+
+### ミステリと言う勿れ
+
+勿言推理 [官方网站](https://not-mystery-movie.jp/)
+
+![ミステリと言う勿れ](not-mystery-movie.webp)
+
+### ミステリと言う勿れ特別編
+
+勿言推理 特别篇 [官方网站](https://www.fujitv.co.jp/not-mystery-sp/)
+
+![ミステリと言う勿れ特別編](not-mystery-sp.webp)
+
+所以为啥要放一半总集篇
+
+### メタリックルージュ
+
+金属口红 [官方网站](https://metallicrouge.jp/)
+
+![メタリックルージュ](metallic-rouge.webp)
+
+太自由了
+
+### ヨルムンガンド
+
+军火女王 [官方网站](https://www.jormungand.tv/)
+
+![ヨルムンガンド](jormungand.webp)
+
+### ルックバック
+
+蓦然回首 [官方网站](https://lookback-anime.com/)
+
+![ルックバック](look-back.webp)
+
+## 碎碎念
+
+> 顺嘴提一下推子，如果没有第一集的话，也就是一般的水平（仅动画，没看过漫画
+
+去年这句话本来是吐槽推子的，结果用在了水魔上，今年这句话终于回到了尊敬的赤坂明老师身边。失忆投捕早早预定了年度提名，结果到最后也就他上了提名，芙莉莲要不是排在他后两位，估计早就被当成年与年夹缝之间的牺牲品了。
+
+比较有意思的是几个无声无息的续作：[BURN THE WITCH #0.8](#burn-the-witch-08)、[饥饿站台2](#el-hoyo-2) 和[大欺诈师 razbliuto](#great-pretender-razbliuto)，除了饥饿站台2都还挺不错的，但不知道为什么一点讨论都没有。最典中典的当属[亡命驾驶](#drive)，很难想象这居然是一部2011年的作品，只是除了让我感慨一下市场的参差好像也没有别的作用。
+
+于是在这个提不起兴趣的2024年，今年的小机器人奖获奖作品自然是最能让人提起兴趣的[金的音像店](#kims-video)，他送情书送的真的很特别，电影万岁。其实小机器人奖本来该颁给机器人之梦的，但是颁给机器人之梦的小机器人奖又不太够得上小机器人奖的含金量，况且统计的时候还没看，那就只好委屈一下票房更低的金的音像店了。
+
+What If 机智的避开了去年的萝卜开会，作为遗留作品进入了 2024 年的赛程。~~虽然不知道~~今年还会出现些什么妖魔鬼怪，但 What If 占尽先机给观众喂的这坨💩必然令各位口齿留香，给各位带来愉快的新年体验，也成为了年度星鸣特攻奖的有力竞争者。这下大家有《〈《奇异博士二》第二部〉第二部》可以看了。看看去年看过的作品，What If 夺得年度星鸣特攻奖，实至名归。
+
+顺便更新一下明年的两位有力竞争者，真正的小机器人：机器人之梦和活在剧透中的传奇：颂乐人偶，不知到年末是否还有惊世奇才能超越这两位选手。
+
+今年依旧谷歌表格依赖，对部分系列作品进行了手动排序。本文所使用的图片分别来自：各作品官网、各作品脸书、[互联网档案馆](https://archive.org)中的各作品官网、[互联网电影数据库](https://www.imdb.com)中的各作品页面所提供的 `og:image`和各作品微博头图。感谢互联网电影数据库与豆瓣对各作品官网链接和中文译名的整理。本文中出现的所有作品及其文字、图像、标识等版权均为原作者所有，仅以评论为目的进行引用，所有图像均使用 webp 以 75% 的质量进行压缩。
