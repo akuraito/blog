@@ -100,6 +100,8 @@ services:
 
 Miniflux 的获取全文功能有时会把广告内容一起存下来，这时就要用到 [Content Rewrite Rules](https://miniflux.app/docs/rules.html#rewrite-rules)，当然以我贫瘠的 web 水平，还是选择打开 uBlock Origin 记录器，复制对应的元素过滤规则。
 
+Miniflux 的 [Matrix Integration](https://miniflux.app/docs/matrix.html) 里，Room ID 要求填写 `!localid:homeserver.tld`，但填了之后没反应，去除 `:homeserver.tld` 部分之后能用了，不清楚是不是 [Conduit](https://conduit.rs/) 的问题。
+
 ### RactFlux
 
 手机上常备的 RSS 阅读器是 [Read You](https://github.com/ReadYouApp/ReadYou)，既然有了 Miniflux，刚好开启`设置`-`集成`-`Google Reader`功能，可惜有条目乱窜的 BUG :point_down:
