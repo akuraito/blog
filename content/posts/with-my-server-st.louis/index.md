@@ -4,7 +4,7 @@ date: 2026-04-26T23:00:00+08:00
 updated: 2026-04-26T23:00:00+08:00
 categories: ["toss"]
 tags: ["Server","Cloudflare","1Panel"]
-images: ["posts/with-my-server-st.louis/og.jpg"]
+images: ["posts/with-my-server-st.louis/og.png"]
 ---
 
 上次对服务器心动还是马斯克收购推特，时间线上不少人转去了 [Misskey](https://misskey-hub.net/cn/)、[Mastodon](https://joinmastodon.org/)，当时去看了看 Mastodon 的文档，只是觉得服务器安全刻不容缓就放下了。直到 25 年黑五刷到十刀一年，2C 1G 20G 的 [CloudCone](https://cloudcone.com/) 灵车，正好碰上几个月前微软为了推 Edge 而[停止了 Authenticator 对自动填充的支持](https://support.microsoft.com/zh-CN/authenticator/changes-to-microsoft-authenticator-autofill)，不如自己搭个 [Bitwarden](https://bitwarden.com/)。<!--more-->
@@ -123,9 +123,11 @@ services:
 
 ### 其他
 
-我一直用 [Heimdallr](https://github.com/LeslieLeung/heimdallr) 来转发各种通知，但在 [Vercel](https://vercel.com/) 网页上改环境变量还是太痛苦了，顺便也迁移到服务器上来。
+~~我一直用 [Heimdallr](https://github.com/LeslieLeung/heimdallr) 来转发各种通知，但在 [Vercel](https://vercel.com/) 网页上改环境变量还是太痛苦了，顺便也迁移到服务器上来。~~
 
-搭配使用的还有 [TediCross](https://github.com/TediCross/TediCross) 用于同步消息，[Gotify](https://gotify.net/) 配合 [gotify-webhook](https://github.com/wuxs/gotify-webhook) 将只支持 Gotify 的通知转发到 Heimdallr。
+~~搭配使用的还有 [TediCross](https://github.com/TediCross/TediCross) 用于同步消息，[Gotify](https://gotify.net/) 配合 [gotify-webhook](https://github.com/wuxs/gotify-webhook) 将只支持 Gotify 的通知转发到 Heimdallr。~~
+
+为了 [Payload Mapping (Hooks)](https://appriseit.com/api/usage/#payload-mapping-hooks) 功能投向了 [Apprise](https://appriseit.com/)，上面这几个也就用不上了。
 
 ## 最后
 
